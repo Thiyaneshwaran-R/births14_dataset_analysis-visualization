@@ -1,0 +1,1001 @@
+fage,mage,mature,weeks,premie,visits,gained,weight,lowbirthweight,sex,marital,whitemom
+34.0,34.0,younger mom,37.0,full term,14.0,28.0,6.96,not low,male,married,white
+36.0,31.0,younger mom,41.0,full term,12.0,41.0,8.86,not low,female,married,white
+37.0,36.0,mature mom,37.0,full term,10.0,28.0,7.51,not low,female,married,not white
+31.0,16.0,younger mom,38.0,full term,12.0,29.0,6.19,not low,male,not married,white
+32.0,31.0,younger mom,36.0,premie,12.0,48.0,6.75,not low,female,married,white
+32.0,26.0,younger mom,39.0,full term,14.0,45.0,6.69,not low,female,married,white
+37.0,36.0,mature mom,36.0,premie,10.0,20.0,6.13,not low,female,married,white
+29.0,24.0,younger mom,40.0,full term,13.0,65.0,6.74,not low,male,not married,white
+30.0,32.0,younger mom,39.0,full term,15.0,25.0,8.94,not low,female,married,white
+29.0,26.0,younger mom,39.0,full term,11.0,22.0,9.12,not low,male,not married,not white
+30.0,34.0,younger mom,42.0,full term,14.0,40.0,8.91,not low,male,married,white
+34.0,27.0,younger mom,40.0,full term,16.0,30.0,8.0,not low,male,married,white
+28.0,22.0,younger mom,40.0,full term,20.0,31.0,7.25,not low,female,not married,white
+28.0,31.0,younger mom,39.0,full term,15.0,30.0,8.2,not low,male,not married,white
+32.0,25.0,younger mom,34.0,premie,20.0,25.0,6.81,not low,male,not married,not white
+24.0,20.0,younger mom,37.0,full term,10.0,70.0,5.56,not low,male,not married,white
+29.0,32.0,younger mom,38.0,full term,12.0,22.0,6.75,not low,female,married,white
+35.0,33.0,younger mom,41.0,full term,15.0,38.0,4.75,low,male,married,not white
+25.0,26.0,younger mom,44.0,full term,16.0,20.0,5.99,not low,male,not married,white
+22.0,23.0,younger mom,40.0,full term,18.0,31.0,8.0,not low,male,not married,white
+32.0,29.0,younger mom,40.0,full term,15.0,30.0,8.54,not low,female,married,white
+21.0,20.0,younger mom,40.0,full term,11.0,0.0,7.69,not low,male,not married,white
+36.0,34.0,younger mom,40.0,full term,16.0,35.0,6.56,not low,female,married,not white
+35.0,35.0,mature mom,38.0,full term,16.0,18.0,6.08,not low,female,not married,not white
+22.0,24.0,younger mom,40.0,full term,12.0,28.0,8.54,not low,male,married,white
+29.0,23.0,younger mom,41.0,full term,12.0,20.0,8.31,not low,female,not married,white
+38.0,31.0,younger mom,39.0,full term,13.0,0.0,6.98,not low,female,married,white
+40.0,42.0,mature mom,44.0,full term,9.0,44.0,7.87,not low,male,married,not white
+26.0,27.0,younger mom,39.0,full term,13.0,69.0,9.72,not low,male,married,white
+20.0,32.0,younger mom,39.0,full term,13.0,10.0,7.03,not low,male,not married,white
+32.0,28.0,younger mom,44.0,full term,8.0,42.0,7.13,not low,female,married,white
+31.0,35.0,mature mom,40.0,full term,13.0,24.0,6.97,not low,female,married,white
+38.0,23.0,younger mom,39.0,full term,8.0,44.0,7.58,not low,male,married,white
+34.0,19.0,younger mom,40.0,full term,9.0,28.0,8.2,not low,male,married,white
+30.0,31.0,younger mom,35.0,premie,6.0,31.0,6.0,not low,male,married,not white
+38.0,45.72821185014418,mature mom,33.0,premie,10.0,28.0,4.31,low,male,not married,not white
+27.0,28.0,younger mom,38.0,full term,11.0,20.0,7.31,not low,male,married,white
+31.0,32.0,younger mom,40.0,full term,2.0,35.0,6.96,not low,male,not married,not white
+39.0,36.0,mature mom,42.0,full term,6.0,4.0,7.75,not low,female,married,not white
+31.0,30.0,younger mom,35.0,premie,15.0,22.0,7.17,not low,male,married,not white
+28.0,24.0,younger mom,37.0,full term,11.0,20.0,7.06,not low,female,not married,white
+32.0,36.0,mature mom,39.0,full term,12.0,36.0,6.94,not low,female,married,white
+25.0,29.0,younger mom,37.0,full term,7.0,9.0,8.19,not low,male,married,white
+21.0,19.0,younger mom,40.0,full term,13.0,24.0,7.63,not low,female,not married,not white
+30.0,30.0,younger mom,37.0,full term,12.0,23.0,6.5,not low,male,married,white
+28.0,30.0,younger mom,39.0,full term,10.0,16.0,6.81,not low,female,married,white
+26.0,34.0,younger mom,39.0,full term,14.0,25.0,8.0,not low,female,married,white
+42.0,43.0,mature mom,34.0,premie,15.0,35.0,4.19,low,male,married,white
+35.0,28.0,younger mom,39.0,full term,13.0,17.0,6.32,not low,female,married,white
+30.0,30.0,younger mom,36.0,premie,12.0,10.0,4.75,low,male,not married,white
+31.0,33.0,younger mom,40.0,full term,17.0,12.0,6.93,not low,male,not married,not white
+32.0,31.0,younger mom,40.0,full term,19.0,19.0,5.94,not low,female,married,not white
+38.0,28.0,younger mom,39.0,full term,12.0,51.0,7.58,not low,female,married,white
+33.0,31.0,younger mom,36.0,premie,10.0,19.0,5.88,not low,male,married,white
+32.0,27.0,younger mom,41.0,full term,15.0,35.0,8.15,not low,female,not married,white
+28.0,26.0,younger mom,41.0,full term,11.0,20.0,7.61,not low,female,married,white
+27.0,25.0,younger mom,34.0,premie,7.0,20.0,4.32,low,female,married,white
+32.0,26.0,younger mom,40.0,full term,12.0,23.0,7.72,not low,female,not married,white
+25.0,29.0,younger mom,39.0,full term,9.0,50.0,7.98,not low,male,not married,not white
+31.0,27.0,younger mom,41.0,full term,15.0,26.0,7.13,not low,male,married,white
+21.0,20.0,younger mom,39.0,full term,23.370515791130217,17.0,6.43,not low,male,not married,white
+31.0,22.0,younger mom,37.0,full term,0.0,7.0,5.44,low,male,not married,white
+47.0,38.0,mature mom,42.0,full term,13.0,28.0,8.75,not low,female,not married,not white
+31.0,25.0,younger mom,40.0,full term,10.0,34.0,7.97,not low,female,not married,white
+37.0,39.0,mature mom,39.0,full term,3.0,27.0,6.79,not low,female,married,white
+20.0,24.0,younger mom,30.971118116097735,premie,12.0,30.0,3.2778345694928483,low,male,not married,white
+33.0,26.0,younger mom,40.0,full term,7.0,32.0,7.13,not low,male,not married,not white
+41.0,32.0,younger mom,34.0,premie,0.0,0.0,7.42,not low,female,not married,white
+37.0,35.0,mature mom,39.0,full term,9.0,41.0,7.89,not low,male,married,white
+43.0,38.0,mature mom,38.0,full term,11.0,41.0,8.39,not low,female,married,not white
+38.0,34.0,younger mom,30.971118116097735,premie,9.0,20.0,3.2778345694928483,low,male,married,not white
+31.0,32.0,younger mom,39.0,full term,6.0,21.0,5.5,not low,female,not married,white
+36.0,32.0,younger mom,33.0,premie,6.0,40.0,5.56,not low,female,not married,white
+31.0,22.0,younger mom,38.0,full term,11.0,37.0,7.94,not low,female,married,white
+31.0,29.0,younger mom,40.0,full term,15.0,40.0,7.19,not low,female,married,white
+31.0,33.0,younger mom,38.0,full term,10.0,40.0,8.0,not low,female,married,white
+25.0,28.0,younger mom,37.0,full term,14.0,19.0,6.56,not low,female,married,white
+43.0,28.0,younger mom,39.0,full term,5.0,32.0,9.06,not low,male,married,white
+21.0,22.0,younger mom,38.0,full term,7.0,27.0,7.01,not low,male,not married,white
+31.0,21.0,younger mom,40.0,full term,13.0,29.0,8.38,not low,female,not married,white
+31.0,16.0,younger mom,40.0,full term,9.0,55.0,8.08,not low,female,not married,white
+38.0,36.0,mature mom,36.0,premie,18.0,35.0,5.44,low,male,married,white
+31.0,29.0,younger mom,38.0,full term,13.0,23.0,7.65,not low,male,married,white
+31.0,27.0,younger mom,39.0,full term,10.0,58.0,7.94,not low,female,not married,not white
+34.0,34.0,younger mom,36.0,premie,10.0,14.0,4.31,low,female,married,white
+25.0,27.0,younger mom,37.0,full term,17.0,30.0,7.69,not low,female,not married,white
+25.0,25.0,younger mom,36.0,premie,18.0,44.0,7.45,not low,male,not married,not white
+35.0,36.0,mature mom,39.0,full term,12.0,71.0,8.07,not low,female,married,white
+26.0,27.0,younger mom,38.0,full term,12.0,23.0,6.06,not low,male,married,white
+36.0,40.0,mature mom,39.0,full term,12.0,40.0,8.0,not low,male,married,white
+19.0,18.0,younger mom,38.0,full term,12.0,40.0,7.94,not low,male,not married,white
+25.0,23.0,younger mom,38.0,full term,14.0,36.0,6.69,not low,male,not married,white
+24.0,20.0,younger mom,37.0,full term,2.0,19.0,5.11,low,female,married,white
+33.0,31.0,younger mom,38.0,full term,8.0,52.0,8.07,not low,male,not married,white
+37.0,38.0,mature mom,36.0,premie,10.0,32.0,6.04,not low,female,married,not white
+21.0,20.0,younger mom,38.0,full term,7.0,20.0,7.37,not low,male,not married,white
+21.0,28.0,younger mom,40.0,full term,5.0,7.0,6.97,not low,female,not married,white
+32.0,33.0,younger mom,41.0,full term,12.0,16.0,7.5,not low,female,not married,white
+27.0,27.0,younger mom,39.0,full term,10.0,17.0,6.36,not low,male,not married,not white
+39.0,37.0,mature mom,41.0,full term,23.370515791130217,26.0,8.25,not low,male,married,white
+29.0,27.0,younger mom,41.0,full term,10.0,17.0,8.73,not low,male,not married,white
+31.0,37.0,mature mom,39.0,full term,0.0,30.0,7.63,not low,female,not married,white
+26.0,31.0,younger mom,40.0,full term,12.0,15.0,7.44,not low,male,not married,white
+25.0,31.0,younger mom,32.0,premie,12.0,41.0,6.38,not low,male,married,white
+31.0,37.0,mature mom,40.0,full term,13.0,46.0,8.31,not low,male,married,white
+38.0,30.0,younger mom,38.0,full term,3.0,53.0,7.77,not low,female,married,white
+31.0,20.0,younger mom,38.0,full term,14.0,45.0,6.49,not low,female,not married,white
+26.0,29.0,younger mom,36.0,premie,8.0,31.0,6.69,not low,male,married,white
+25.0,30.0,younger mom,38.0,full term,7.0,31.0,5.81,not low,male,married,white
+28.0,28.0,younger mom,40.0,full term,12.0,38.0,6.44,not low,female,not married,white
+27.0,26.0,younger mom,40.0,full term,9.0,54.0,9.68,not low,female,married,white
+29.0,27.0,younger mom,40.0,full term,11.0,22.0,5.94,not low,female,married,white
+32.0,30.0,younger mom,39.0,full term,11.0,26.0,7.37,not low,male,not married,white
+43.0,27.0,younger mom,39.0,full term,14.0,45.0,8.69,not low,female,married,white
+31.0,26.0,younger mom,39.0,full term,8.0,35.0,8.12,not low,female,not married,white
+29.0,25.0,younger mom,40.0,full term,11.0,21.0,5.89,not low,female,married,white
+30.0,30.0,younger mom,45.0,full term,9.0,13.0,7.63,not low,female,married,white
+24.0,26.0,younger mom,37.0,full term,12.0,25.0,8.31,not low,female,not married,white
+31.0,18.0,younger mom,39.0,full term,10.0,30.0,6.07,not low,female,not married,white
+31.0,21.0,younger mom,39.0,full term,13.0,35.0,6.81,not low,female,not married,not white
+31.0,27.0,younger mom,39.0,full term,13.0,34.0,7.81,not low,male,not married,not white
+15.0,19.0,younger mom,39.0,full term,13.0,25.0,6.94,not low,female,not married,not white
+38.0,33.0,younger mom,39.0,full term,11.0,12.0,8.25,not low,female,not married,not white
+28.0,29.0,younger mom,40.0,full term,17.0,75.16475357966655,8.88,not low,female,married,white
+36.0,43.0,mature mom,39.0,full term,10.0,36.0,7.54,not low,male,married,white
+37.0,39.0,mature mom,41.0,full term,7.0,28.0,6.56,not low,female,married,white
+31.0,21.0,younger mom,39.0,full term,9.0,35.0,7.63,not low,male,not married,white
+27.0,26.0,younger mom,41.0,full term,10.0,38.0,8.87,not low,male,married,white
+31.0,26.0,younger mom,39.0,full term,8.0,7.0,7.75,not low,male,not married,not white
+25.0,27.0,younger mom,39.0,full term,13.0,19.0,5.9,not low,female,married,not white
+46.0,38.0,mature mom,40.0,full term,11.0,12.0,8.88,not low,male,married,white
+27.0,28.0,younger mom,39.0,full term,14.0,30.0,5.97,not low,male,married,white
+43.0,39.0,mature mom,40.0,full term,11.0,37.0,8.75,not low,female,married,white
+41.0,24.0,younger mom,40.0,full term,15.0,38.0,7.26,not low,male,married,not white
+39.0,36.0,mature mom,39.0,full term,12.0,74.0,8.56,not low,female,married,white
+34.0,31.0,younger mom,40.0,full term,16.0,45.0,5.58,not low,female,not married,white
+36.0,26.0,younger mom,38.0,full term,12.0,25.0,7.69,not low,female,not married,white
+31.0,31.0,younger mom,37.0,full term,12.0,36.0,6.27,not low,female,married,white
+27.0,23.0,younger mom,37.0,full term,15.0,34.0,5.91,not low,female,married,white
+31.0,21.0,younger mom,38.0,full term,8.0,10.0,5.64,not low,male,not married,not white
+43.0,38.0,mature mom,38.0,full term,14.0,25.0,7.39,not low,female,married,not white
+20.0,24.0,younger mom,39.0,full term,11.0,67.0,7.86,not low,female,not married,white
+34.0,29.0,younger mom,38.0,full term,21.0,18.0,4.55,low,male,married,white
+29.0,23.0,younger mom,39.0,full term,7.0,20.0,5.07,low,female,married,white
+25.0,30.0,younger mom,37.0,full term,18.0,40.0,7.0,not low,female,not married,white
+30.0,32.0,younger mom,40.0,full term,16.0,50.0,9.24,not low,male,married,white
+25.0,24.0,younger mom,37.0,full term,12.0,26.0,6.5,not low,female,not married,white
+31.0,31.0,younger mom,39.0,full term,11.0,29.0,7.22,not low,female,married,white
+43.0,36.0,mature mom,40.0,full term,9.0,16.0,6.92,not low,female,married,white
+32.0,34.0,younger mom,43.0,full term,14.0,20.0,7.8,not low,male,married,white
+34.0,31.0,younger mom,38.0,full term,12.0,20.0,5.13,low,female,married,not white
+21.0,26.0,younger mom,43.0,full term,11.0,14.0,6.65,not low,male,not married,white
+29.0,22.0,younger mom,37.0,full term,12.0,26.0,5.5,low,female,not married,white
+38.0,42.0,mature mom,39.0,full term,18.0,9.0,7.78,not low,male,married,not white
+31.0,31.0,younger mom,40.0,full term,12.0,29.0,3.93,low,female,married,white
+31.0,32.0,younger mom,32.0,premie,9.0,75.16475357966655,8.15,not low,female,not married,white
+21.0,24.0,younger mom,39.0,full term,9.0,62.0,6.94,not low,female,not married,not white
+28.0,29.0,younger mom,37.0,full term,10.0,44.0,6.95,not low,female,married,white
+32.0,32.0,younger mom,38.0,full term,11.0,30.0,6.87,not low,male,not married,white
+22.0,23.0,younger mom,41.0,full term,12.0,47.0,8.87,not low,male,not married,white
+18.0,18.0,younger mom,39.0,full term,16.0,32.0,8.84,not low,female,not married,white
+31.0,29.0,younger mom,40.0,full term,9.0,30.0,6.81,not low,male,not married,white
+26.0,26.0,younger mom,40.0,full term,11.0,4.0,7.61,not low,female,married,white
+20.0,26.0,younger mom,39.0,full term,15.0,26.0,8.06,not low,female,married,not white
+34.0,30.0,younger mom,39.0,full term,13.0,29.0,7.21,not low,female,married,white
+32.0,25.0,younger mom,40.0,full term,13.0,20.0,7.21,not low,female,not married,not white
+29.0,23.0,younger mom,37.0,full term,11.0,36.0,6.5,not low,male,not married,white
+34.0,30.0,younger mom,36.0,premie,23.370515791130217,25.0,5.62,not low,male,married,white
+29.0,23.0,younger mom,40.0,full term,12.0,59.0,8.54,not low,male,not married,white
+32.0,28.0,younger mom,36.0,premie,15.0,28.0,6.0,not low,female,married,not white
+22.0,24.0,younger mom,35.0,premie,8.0,16.0,9.25,not low,female,not married,white
+20.0,19.0,younger mom,39.0,full term,12.0,59.0,5.93,not low,female,not married,white
+32.0,36.0,mature mom,35.0,premie,9.0,20.0,7.69,not low,female,married,white
+23.0,19.0,younger mom,40.0,full term,13.0,30.0,9.31,not low,male,married,white
+47.0,36.0,mature mom,39.0,full term,15.0,20.0,8.44,not low,male,married,white
+26.0,20.0,younger mom,39.0,full term,14.0,15.0,6.19,not low,female,married,white
+24.0,19.0,younger mom,34.0,premie,9.0,34.0,4.44,low,female,married,white
+24.0,25.0,younger mom,36.0,premie,8.0,0.0,5.5,not low,male,not married,white
+33.0,27.0,younger mom,38.0,full term,11.0,31.0,7.44,not low,male,married,white
+35.0,37.0,mature mom,43.0,full term,11.0,25.0,7.19,not low,female,married,white
+34.0,25.0,younger mom,41.0,full term,13.0,35.0,7.0,not low,female,married,not white
+39.0,34.0,younger mom,41.0,full term,13.0,42.0,9.19,not low,female,married,white
+31.0,25.0,younger mom,38.0,full term,13.0,30.0,5.89,not low,male,not married,not white
+30.0,27.0,younger mom,41.0,full term,12.0,42.0,8.54,not low,male,married,white
+42.0,34.0,younger mom,39.0,full term,12.0,22.0,7.53,not low,female,married,white
+26.0,31.0,younger mom,38.0,full term,11.0,28.0,6.64,not low,female,married,not white
+27.0,23.0,younger mom,33.0,premie,5.0,26.0,8.75,not low,male,married,white
+25.0,26.0,younger mom,39.0,full term,13.0,55.0,6.81,not low,male,not married,white
+27.0,27.0,younger mom,37.0,full term,12.0,29.0,9.7,not low,male,married,white
+31.0,34.0,younger mom,30.971118116097735,premie,6.0,49.0,3.2778345694928483,low,female,not married,white
+43.0,34.0,younger mom,40.0,full term,15.0,30.0,7.87,not low,female,not married,not white
+21.0,19.0,younger mom,38.0,full term,15.0,42.0,8.69,not low,male,not married,white
+33.0,33.0,younger mom,31.0,premie,12.0,36.0,7.83,not low,male,married,white
+23.0,24.0,younger mom,32.0,premie,13.0,26.0,6.78,not low,male,married,not white
+42.0,40.0,mature mom,38.0,full term,10.0,18.0,7.5,not low,female,married,white
+48.0,35.0,mature mom,36.0,premie,5.0,16.0,7.63,not low,male,not married,not white
+29.0,24.0,younger mom,39.0,full term,2.0,33.0,6.43,not low,female,not married,white
+25.0,21.0,younger mom,38.0,full term,12.0,20.0,5.64,not low,male,not married,white
+30.0,34.0,younger mom,41.0,full term,8.0,5.0,7.75,not low,female,married,not white
+27.0,26.0,younger mom,40.0,full term,13.0,24.0,6.12,not low,female,married,white
+31.0,34.0,younger mom,40.0,full term,17.0,75.16475357966655,7.23,not low,male,married,white
+16.0,25.0,younger mom,40.0,full term,12.0,71.0,9.06,not low,male,not married,white
+31.0,33.0,younger mom,38.0,full term,18.0,11.0,7.24,not low,male,married,white
+28.0,32.0,younger mom,43.0,full term,12.0,20.0,8.95,not low,male,not married,white
+22.0,25.0,younger mom,39.0,full term,14.0,12.0,7.84,not low,female,not married,white
+31.0,25.0,younger mom,41.0,full term,15.0,25.0,8.69,not low,female,not married,white
+27.0,22.0,younger mom,39.0,full term,12.0,36.0,7.81,not low,male,married,white
+39.0,36.0,mature mom,38.0,full term,12.0,20.0,6.56,not low,female,married,white
+37.0,37.0,mature mom,39.0,full term,14.0,25.0,7.94,not low,male,married,white
+31.0,31.0,younger mom,38.0,full term,12.0,3.0,6.38,not low,female,married,white
+21.0,21.0,younger mom,39.0,full term,12.0,19.0,6.44,not low,female,not married,not white
+38.0,33.0,younger mom,39.0,full term,10.0,33.0,6.86,not low,female,married,white
+31.0,35.0,mature mom,37.0,full term,11.0,44.0,6.19,not low,female,not married,not white
+33.0,23.0,younger mom,34.0,premie,11.0,34.0,4.85,low,female,married,white
+24.0,22.0,younger mom,40.0,full term,12.0,10.0,5.06,low,female,not married,white
+33.0,37.0,mature mom,38.0,full term,19.0,26.0,7.5,not low,female,married,not white
+38.0,39.0,mature mom,40.0,full term,0.0,45.0,8.3,not low,female,married,white
+31.0,24.0,younger mom,40.0,full term,12.0,73.0,8.76,not low,male,not married,white
+41.0,36.0,mature mom,38.0,full term,9.0,33.0,7.17,not low,male,married,not white
+21.0,23.0,younger mom,37.0,full term,12.0,44.0,6.69,not low,male,not married,white
+24.0,22.0,younger mom,39.0,full term,13.0,8.0,7.19,not low,female,not married,white
+26.0,24.0,younger mom,41.0,full term,0.0,28.0,6.5,not low,male,not married,white
+31.0,30.0,younger mom,38.0,full term,10.0,22.0,7.37,not low,female,not married,white
+24.0,21.0,younger mom,41.0,full term,14.0,35.0,7.37,not low,male,not married,white
+31.0,24.0,younger mom,38.0,full term,4.0,10.0,8.09,not low,male,not married,not white
+31.0,18.0,younger mom,40.0,full term,5.0,45.0,7.52,not low,female,not married,white
+30.0,29.0,younger mom,41.0,full term,14.0,34.0,7.95,not low,male,married,white
+30.0,32.0,younger mom,38.0,full term,9.0,22.0,7.31,not low,male,married,white
+31.0,17.0,younger mom,40.0,full term,12.0,28.0,6.25,not low,male,not married,white
+29.0,29.0,younger mom,41.0,full term,16.0,44.0,7.09,not low,male,married,not white
+37.0,25.0,younger mom,40.0,full term,10.0,15.0,7.9,not low,female,not married,white
+28.0,26.0,younger mom,39.0,full term,10.0,35.0,6.53,not low,male,not married,white
+51.04807505986596,31.0,younger mom,35.0,premie,11.0,30.0,5.94,not low,female,married,white
+31.0,34.0,younger mom,37.0,full term,12.0,1.0,6.57,not low,male,married,white
+21.0,22.0,younger mom,38.0,full term,15.0,17.0,7.65,not low,male,not married,white
+33.0,29.0,younger mom,39.0,full term,11.0,35.0,8.23,not low,female,married,white
+38.0,36.0,mature mom,40.0,full term,17.0,29.0,6.87,not low,female,married,white
+22.0,23.0,younger mom,39.0,full term,12.0,32.0,7.1,not low,male,married,not white
+30.0,30.0,younger mom,41.0,full term,20.0,34.0,7.35,not low,male,married,white
+32.0,28.0,younger mom,38.0,full term,8.0,15.0,7.01,not low,female,not married,not white
+38.0,27.0,younger mom,39.0,full term,17.0,30.0,8.88,not low,male,married,not white
+35.0,35.0,mature mom,37.0,full term,10.0,28.0,6.25,not low,female,not married,white
+31.0,23.0,younger mom,39.0,full term,12.0,30.0,7.56,not low,male,not married,not white
+25.0,25.0,younger mom,36.0,premie,9.0,27.0,6.5,not low,male,not married,not white
+31.0,23.0,younger mom,39.0,full term,11.0,23.0,8.12,not low,male,not married,white
+30.0,31.0,younger mom,38.0,full term,8.0,21.0,10.62,not low,male,married,white
+36.0,34.0,younger mom,40.0,full term,10.0,29.0,6.72,not low,male,married,white
+38.0,38.0,mature mom,40.0,full term,15.0,27.0,7.98,not low,female,married,white
+31.0,26.0,younger mom,39.0,full term,16.0,33.0,9.19,not low,male,married,white
+37.0,34.0,younger mom,39.0,full term,15.0,29.0,7.44,not low,male,married,white
+44.0,37.0,mature mom,34.0,premie,16.0,37.0,4.56,low,male,married,white
+35.0,34.0,younger mom,39.0,full term,8.0,57.0,8.14,not low,male,married,white
+32.0,32.0,younger mom,39.0,full term,10.0,25.0,6.55,not low,male,married,not white
+18.0,20.0,younger mom,38.0,full term,12.0,26.0,6.86,not low,male,not married,not white
+35.0,32.0,younger mom,42.0,full term,12.0,32.0,8.31,not low,female,married,white
+28.0,23.0,younger mom,41.0,full term,7.0,17.0,9.45,not low,male,not married,white
+28.0,29.0,younger mom,39.0,full term,11.0,22.0,9.39,not low,male,married,white
+41.0,37.0,mature mom,42.0,full term,13.0,20.0,8.69,not low,female,married,white
+37.0,32.0,younger mom,40.0,full term,12.0,41.0,8.13,not low,male,married,white
+31.0,30.0,younger mom,40.0,full term,12.0,40.0,6.89,not low,female,married,not white
+38.0,31.0,younger mom,43.0,full term,7.0,1.0,7.66,not low,female,married,not white
+37.0,38.0,mature mom,40.0,full term,12.0,20.0,6.1,not low,female,married,not white
+33.0,33.0,younger mom,35.0,premie,8.0,19.0,5.51,not low,female,married,white
+20.0,22.0,younger mom,39.0,full term,8.0,45.0,8.5,not low,male,married,white
+27.0,30.0,younger mom,38.0,full term,6.0,18.0,7.87,not low,female,not married,white
+25.0,27.0,younger mom,39.0,full term,13.0,30.0,8.94,not low,male,not married,white
+38.0,36.0,mature mom,37.0,full term,11.0,22.0,6.92,not low,female,married,white
+37.0,34.0,younger mom,39.0,full term,12.0,27.0,7.5,not low,male,married,white
+20.0,22.0,younger mom,36.0,premie,8.0,34.0,8.25,not low,female,married,white
+25.0,24.0,younger mom,39.0,full term,14.0,13.0,6.98,not low,female,not married,white
+38.0,35.0,mature mom,39.0,full term,14.0,0.0,8.75,not low,male,married,not white
+40.0,37.0,mature mom,39.0,full term,13.0,22.0,7.66,not low,male,married,white
+22.0,21.0,younger mom,41.0,full term,10.0,42.0,7.12,not low,female,not married,white
+44.0,39.0,mature mom,41.0,full term,17.0,35.0,8.19,not low,male,not married,white
+29.0,20.0,younger mom,32.0,premie,13.0,30.0,6.69,not low,male,not married,white
+31.0,25.0,younger mom,35.0,premie,9.0,42.0,3.97,low,female,married,white
+27.0,28.0,younger mom,34.0,premie,10.0,55.0,6.0,not low,female,married,not white
+31.0,24.0,younger mom,40.0,full term,5.0,30.0,6.72,not low,male,not married,not white
+24.0,25.0,younger mom,38.0,full term,13.0,14.0,6.31,not low,female,not married,white
+24.0,25.0,younger mom,39.0,full term,10.0,17.0,8.62,not low,male,not married,white
+31.0,20.0,younger mom,41.0,full term,15.0,40.0,7.95,not low,male,not married,not white
+26.0,26.0,younger mom,41.0,full term,10.0,30.0,8.25,not low,male,married,white
+31.0,36.0,mature mom,30.971118116097735,premie,3.0,18.0,3.2778345694928483,low,female,not married,white
+26.0,27.0,younger mom,41.0,full term,16.0,40.0,7.25,not low,female,married,white
+35.0,27.0,younger mom,39.0,full term,4.0,5.0,7.58,not low,female,married,not white
+30.0,25.0,younger mom,38.0,full term,4.0,25.0,7.67,not low,male,not married,white
+31.0,27.0,younger mom,37.0,full term,4.0,31.0,6.62,not low,female,not married,white
+36.0,29.0,younger mom,39.0,full term,9.0,25.0,8.12,not low,male,married,not white
+35.0,35.0,mature mom,38.0,full term,10.0,40.0,7.98,not low,female,married,white
+47.0,33.0,younger mom,39.0,full term,7.0,11.0,7.13,not low,male,married,not white
+23.0,18.0,younger mom,38.0,full term,10.0,38.0,7.56,not low,male,not married,not white
+23.0,23.0,younger mom,40.0,full term,13.0,30.0,8.23,not low,female,married,white
+22.0,20.0,younger mom,39.0,full term,10.0,10.0,6.53,not low,female,married,white
+33.0,33.0,younger mom,39.0,full term,13.0,31.0,7.69,not low,male,married,white
+31.0,26.0,younger mom,39.0,full term,16.0,46.0,7.19,not low,male,married,white
+43.0,32.0,younger mom,39.0,full term,10.0,29.0,8.25,not low,female,married,white
+21.0,23.0,younger mom,40.0,full term,9.0,28.0,10.21,not low,male,married,white
+39.0,31.0,younger mom,38.0,full term,14.0,44.0,6.66,not low,female,married,white
+24.0,22.0,younger mom,41.0,full term,13.0,11.0,7.95,not low,male,married,white
+39.0,25.0,younger mom,39.0,full term,10.0,42.0,8.28,not low,male,married,white
+29.0,33.0,younger mom,39.0,full term,5.0,19.0,7.28,not low,male,not married,white
+33.0,29.0,younger mom,41.0,full term,8.0,41.0,6.75,not low,male,married,white
+33.0,28.0,younger mom,41.0,full term,14.0,23.0,7.37,not low,female,not married,white
+28.0,26.0,younger mom,37.0,full term,12.0,22.0,7.0,not low,male,married,white
+25.0,27.0,younger mom,41.0,full term,16.0,75.16475357966655,8.79,not low,male,married,white
+34.0,31.0,younger mom,40.0,full term,13.0,40.0,7.9,not low,male,married,white
+33.0,25.0,younger mom,40.0,full term,8.0,18.0,7.25,not low,female,not married,not white
+25.0,27.0,younger mom,41.0,full term,14.0,41.0,8.57,not low,female,married,white
+31.0,32.0,younger mom,39.0,full term,12.0,24.0,7.75,not low,male,married,white
+32.0,26.0,younger mom,41.0,full term,14.0,30.0,8.17,not low,male,married,white
+44.0,38.0,mature mom,39.0,full term,4.0,29.0,7.69,not low,female,married,not white
+28.0,31.0,younger mom,39.0,full term,4.0,0.0,8.0,not low,male,married,white
+43.0,38.0,mature mom,38.0,full term,9.0,35.0,7.19,not low,male,married,white
+31.0,31.0,younger mom,37.0,full term,12.0,29.0,5.97,not low,female,married,not white
+45.0,39.0,mature mom,39.0,full term,15.0,36.0,8.94,not low,female,married,white
+18.0,18.0,younger mom,39.0,full term,8.0,39.0,5.69,not low,female,not married,not white
+20.0,23.0,younger mom,40.0,full term,12.0,16.0,7.61,not low,female,not married,white
+21.0,21.0,younger mom,40.0,full term,12.0,30.0,6.68,not low,female,not married,not white
+31.0,20.0,younger mom,37.0,full term,9.0,28.0,7.33,not low,male,not married,white
+30.0,34.0,younger mom,39.0,full term,12.0,41.0,8.48,not low,male,married,white
+36.0,33.0,younger mom,40.0,full term,12.0,53.0,6.74,not low,male,not married,white
+34.0,28.0,younger mom,39.0,full term,8.0,27.0,7.58,not low,female,married,white
+25.0,27.0,younger mom,38.0,full term,11.0,24.0,9.0,not low,male,not married,white
+31.0,16.0,younger mom,39.0,full term,8.0,43.0,6.74,not low,female,not married,white
+31.0,22.0,younger mom,35.0,premie,8.0,5.0,4.5,low,male,not married,white
+33.0,28.0,younger mom,37.0,full term,8.0,30.0,6.81,not low,female,married,white
+44.0,35.0,mature mom,41.0,full term,12.0,25.0,8.7,not low,male,married,not white
+30.0,33.0,younger mom,40.0,full term,12.0,34.0,6.75,not low,male,not married,not white
+27.0,25.0,younger mom,30.971118116097735,premie,4.0,6.0,3.2778345694928483,low,male,married,not white
+35.0,32.0,younger mom,41.0,full term,15.0,51.0,7.63,not low,male,married,white
+29.0,26.0,younger mom,39.0,full term,3.0,29.0,8.31,not low,female,not married,white
+20.0,20.0,younger mom,39.0,full term,10.0,32.0,7.04,not low,female,not married,white
+31.0,29.0,younger mom,39.0,full term,13.0,50.0,7.4,not low,female,not married,white
+49.0,40.0,mature mom,39.0,full term,12.0,30.0,6.57,not low,female,married,not white
+42.0,31.0,younger mom,39.0,full term,5.0,75.16475357966655,7.91,not low,male,married,not white
+29.0,21.0,younger mom,36.0,premie,10.0,28.0,6.17,not low,female,not married,white
+25.0,27.0,younger mom,35.0,premie,12.0,6.0,6.61,not low,male,not married,not white
+31.0,31.0,younger mom,39.0,full term,9.0,20.0,6.94,not low,male,not married,white
+19.0,16.0,younger mom,36.0,premie,8.0,49.0,6.38,not low,male,married,white
+33.0,29.0,younger mom,34.0,premie,12.0,55.0,8.56,not low,male,married,white
+39.0,33.0,younger mom,40.0,full term,9.0,30.0,8.12,not low,male,married,white
+27.0,30.0,younger mom,46.0,full term,0.0,23.0,6.62,not low,female,married,white
+30.0,34.0,younger mom,39.0,full term,10.0,19.0,6.75,not low,female,married,white
+41.0,35.0,mature mom,38.0,full term,14.0,15.0,5.5,not low,female,married,white
+33.0,33.0,younger mom,35.0,premie,12.0,32.0,4.94,low,female,married,not white
+26.0,25.0,younger mom,39.0,full term,12.0,12.0,6.75,not low,male,married,white
+32.0,37.0,mature mom,37.0,full term,10.0,13.0,6.48,not low,female,not married,white
+31.0,40.0,mature mom,39.0,full term,0.0,10.0,6.75,not low,male,not married,white
+33.0,31.0,younger mom,37.0,full term,10.0,53.0,5.81,not low,female,married,white
+33.0,29.0,younger mom,41.0,full term,17.0,36.0,8.31,not low,male,married,white
+38.0,38.0,mature mom,40.0,full term,12.0,31.0,8.37,not low,female,married,white
+43.0,33.0,younger mom,40.0,full term,15.0,40.0,6.94,not low,female,not married,not white
+20.0,20.0,younger mom,41.0,full term,19.0,30.0,8.11,not low,male,not married,white
+34.0,26.0,younger mom,39.0,full term,7.0,47.0,7.94,not low,male,married,white
+38.0,34.0,younger mom,42.0,full term,10.0,29.0,6.88,not low,male,married,not white
+39.0,30.0,younger mom,40.0,full term,13.0,46.0,7.81,not low,female,married,white
+33.0,19.0,younger mom,38.0,full term,12.0,53.0,8.0,not low,female,not married,white
+31.0,18.0,younger mom,39.0,full term,12.0,0.0,6.25,not low,female,not married,white
+31.0,33.0,younger mom,40.0,full term,10.0,30.0,8.31,not low,female,not married,not white
+32.0,26.0,younger mom,38.0,full term,10.0,35.0,6.44,not low,male,married,not white
+26.0,24.0,younger mom,39.0,full term,14.0,31.0,8.59,not low,male,married,white
+33.0,30.0,younger mom,41.0,full term,13.0,19.0,6.19,not low,male,not married,not white
+26.0,37.0,mature mom,39.0,full term,13.0,38.0,8.31,not low,female,married,white
+38.0,33.0,younger mom,41.0,full term,11.0,18.0,8.19,not low,male,not married,white
+39.0,35.0,mature mom,41.0,full term,9.0,21.0,7.44,not low,female,married,white
+31.0,37.0,mature mom,41.0,full term,12.0,37.0,4.57,low,female,not married,white
+29.0,26.0,younger mom,41.0,full term,13.0,60.0,6.82,not low,female,married,white
+28.0,23.0,younger mom,39.0,full term,17.0,24.0,7.25,not low,male,not married,white
+29.0,23.0,younger mom,37.0,full term,8.0,15.0,7.5,not low,female,married,white
+25.0,28.0,younger mom,42.0,full term,12.0,30.0,7.37,not low,male,married,white
+26.0,27.0,younger mom,42.0,full term,12.0,26.0,7.13,not low,female,married,white
+45.0,34.0,younger mom,35.0,premie,9.0,22.0,4.25,low,female,married,white
+31.0,27.0,younger mom,40.0,full term,12.0,35.0,7.44,not low,male,not married,white
+34.0,33.0,younger mom,40.0,full term,12.0,30.0,7.94,not low,male,married,not white
+26.0,27.0,younger mom,39.0,full term,0.0,63.0,7.46,not low,female,married,white
+25.0,27.0,younger mom,43.0,full term,12.0,27.0,8.24,not low,male,married,white
+21.0,19.0,younger mom,39.0,full term,10.0,26.0,7.13,not low,male,not married,white
+24.0,20.0,younger mom,41.0,full term,12.0,34.0,7.87,not low,male,not married,white
+20.0,23.0,younger mom,44.0,full term,17.0,7.0,6.56,not low,female,married,white
+34.0,34.0,younger mom,40.0,full term,12.0,23.0,5.56,not low,female,not married,not white
+27.0,27.0,younger mom,42.0,full term,1.0,75.16475357966655,7.75,not low,female,married,not white
+34.0,26.0,younger mom,42.0,full term,9.0,28.0,7.19,not low,female,married,not white
+41.0,40.0,mature mom,40.0,full term,10.0,25.0,7.23,not low,female,married,not white
+42.0,33.0,younger mom,37.0,full term,7.0,12.0,5.75,not low,male,not married,white
+34.0,29.0,younger mom,40.0,full term,15.0,25.0,7.39,not low,male,not married,white
+39.0,41.0,mature mom,34.0,premie,11.0,28.0,7.56,not low,female,married,not white
+23.0,23.0,younger mom,42.0,full term,14.0,38.0,8.31,not low,male,married,white
+34.0,33.0,younger mom,42.0,full term,15.0,40.0,9.57,not low,female,married,white
+35.0,27.0,younger mom,39.0,full term,8.0,25.0,7.34,not low,female,married,white
+32.0,29.0,younger mom,40.0,full term,12.0,21.0,7.06,not low,male,married,white
+25.0,20.0,younger mom,40.0,full term,10.0,44.0,8.75,not low,male,married,white
+32.0,22.0,younger mom,39.0,full term,14.0,34.0,8.99,not low,male,married,white
+34.0,35.0,mature mom,37.0,full term,15.0,27.0,7.37,not low,male,not married,white
+21.0,18.0,younger mom,40.0,full term,10.0,45.0,7.94,not low,male,not married,not white
+42.0,26.0,younger mom,39.0,full term,11.0,35.0,7.87,not low,male,married,white
+34.0,28.0,younger mom,39.0,full term,10.0,18.0,7.75,not low,male,married,white
+34.0,31.0,younger mom,40.0,full term,16.0,25.0,10.42,not low,male,married,white
+34.0,30.0,younger mom,40.0,full term,16.0,9.0,7.66,not low,male,married,white
+26.0,24.0,younger mom,38.0,full term,10.0,35.0,7.22,not low,female,married,white
+36.0,34.0,younger mom,38.0,full term,10.0,28.0,7.69,not low,female,married,white
+31.0,20.0,younger mom,39.0,full term,9.0,17.0,6.56,not low,female,not married,white
+44.0,41.0,mature mom,39.0,full term,8.0,38.0,9.93,not low,male,married,white
+33.0,32.0,younger mom,32.0,premie,13.0,47.0,6.38,not low,female,married,white
+36.0,39.0,mature mom,38.0,full term,14.0,35.0,9.12,not low,male,married,white
+24.0,20.0,younger mom,40.0,full term,10.0,49.0,9.84,not low,male,married,white
+30.0,28.0,younger mom,37.0,full term,10.0,30.0,8.19,not low,male,married,white
+34.0,26.0,younger mom,39.0,full term,10.0,33.0,5.05,low,female,not married,white
+26.0,27.0,younger mom,40.0,full term,15.0,18.0,8.44,not low,male,not married,white
+37.0,24.0,younger mom,43.0,full term,9.0,4.0,7.56,not low,male,not married,white
+39.0,26.0,younger mom,36.0,premie,13.0,70.0,4.94,low,female,married,white
+32.0,32.0,younger mom,39.0,full term,12.0,31.0,7.19,not low,male,not married,not white
+27.0,28.0,younger mom,39.0,full term,7.0,40.0,7.13,not low,male,married,white
+26.0,28.0,younger mom,39.0,full term,10.0,28.0,7.87,not low,female,not married,white
+26.0,26.0,younger mom,40.0,full term,14.0,22.0,7.13,not low,female,married,white
+25.0,27.0,younger mom,40.0,full term,16.0,37.0,6.86,not low,male,married,white
+43.0,38.0,mature mom,39.0,full term,7.0,49.0,7.21,not low,female,married,not white
+34.0,34.0,younger mom,38.0,full term,9.0,28.0,5.94,not low,female,married,white
+41.0,39.0,mature mom,39.0,full term,12.0,26.0,7.13,not low,male,not married,white
+25.0,26.0,younger mom,34.0,premie,8.0,49.0,5.29,low,male,married,white
+26.0,30.0,younger mom,39.0,full term,12.0,4.0,7.59,not low,female,not married,white
+31.0,29.0,younger mom,39.0,full term,9.0,15.0,7.62,not low,female,married,not white
+31.0,26.0,younger mom,37.0,full term,12.0,50.0,5.6,not low,female,not married,not white
+33.0,21.0,younger mom,38.0,full term,7.0,36.0,6.44,not low,male,married,white
+28.0,22.0,younger mom,42.0,full term,7.0,37.0,7.56,not low,female,not married,white
+37.0,32.0,younger mom,40.0,full term,11.0,20.0,9.02,not low,male,married,white
+43.0,36.0,mature mom,37.0,full term,15.0,25.0,5.94,not low,male,married,white
+25.0,31.0,younger mom,34.0,premie,12.0,30.0,8.21,not low,female,not married,white
+32.0,30.0,younger mom,39.0,full term,13.0,22.0,6.56,not low,female,married,white
+29.0,22.0,younger mom,39.0,full term,14.0,21.0,7.06,not low,male,not married,white
+28.0,24.0,younger mom,35.0,premie,12.0,0.0,6.99,not low,female,married,white
+25.0,26.0,younger mom,38.0,full term,12.0,17.0,4.87,low,female,married,white
+27.0,30.0,younger mom,37.0,full term,15.0,30.0,6.06,not low,male,married,white
+26.0,19.0,younger mom,41.0,full term,15.0,37.0,7.13,not low,male,not married,white
+31.0,33.0,younger mom,40.0,full term,15.0,40.0,8.62,not low,female,married,white
+46.0,38.0,mature mom,40.0,full term,12.0,36.0,8.77,not low,male,married,white
+51.04807505986596,29.0,younger mom,35.0,premie,8.0,47.0,5.95,not low,female,not married,white
+34.0,32.0,younger mom,41.0,full term,12.0,30.0,8.22,not low,female,married,white
+28.0,21.0,younger mom,40.0,full term,12.0,58.0,7.57,not low,female,not married,not white
+25.0,24.0,younger mom,39.0,full term,10.0,24.0,7.69,not low,female,married,not white
+21.0,19.0,younger mom,39.0,full term,13.0,49.0,8.5,not low,male,not married,white
+30.0,24.0,younger mom,40.0,full term,13.0,17.0,7.5,not low,female,not married,not white
+35.0,32.0,younger mom,37.0,full term,10.0,10.0,6.81,not low,female,married,white
+34.0,31.0,younger mom,38.0,full term,18.0,19.0,7.41,not low,male,married,white
+41.0,38.0,mature mom,41.0,full term,20.0,26.0,6.25,not low,male,married,white
+26.0,24.0,younger mom,40.0,full term,7.0,26.0,8.31,not low,male,married,white
+28.0,24.0,younger mom,39.0,full term,9.0,16.0,7.07,not low,female,married,white
+39.0,36.0,mature mom,39.0,full term,14.0,55.0,7.81,not low,male,married,white
+32.0,36.0,mature mom,40.0,full term,23.370515791130217,10.0,6.59,not low,female,not married,white
+30.0,33.0,younger mom,39.0,full term,10.0,16.0,7.13,not low,male,married,white
+24.0,22.0,younger mom,39.0,full term,15.0,18.0,7.44,not low,female,married,white
+38.0,22.0,younger mom,43.0,full term,11.0,30.0,7.86,not low,female,not married,white
+26.0,26.0,younger mom,40.0,full term,11.0,35.0,6.56,not low,female,married,white
+36.0,22.0,younger mom,35.0,premie,12.0,5.0,5.78,not low,male,married,not white
+22.0,29.0,younger mom,41.0,full term,15.0,75.0,9.12,not low,male,not married,white
+31.0,28.0,younger mom,38.0,full term,0.0,10.0,5.22,low,male,not married,white
+38.0,28.0,younger mom,39.0,full term,12.0,30.0,7.96,not low,male,not married,white
+34.0,30.0,younger mom,39.0,full term,15.0,34.0,7.25,not low,female,married,not white
+28.0,21.0,younger mom,40.0,full term,3.0,20.0,8.6,not low,male,married,not white
+33.0,36.0,mature mom,35.0,premie,15.0,0.0,6.64,not low,male,married,white
+31.0,34.0,younger mom,33.0,premie,7.0,16.0,3.2778345694928483,low,female,married,white
+33.0,32.0,younger mom,39.0,full term,13.0,30.0,7.15,not low,male,married,white
+41.0,39.0,mature mom,35.0,premie,13.0,45.0,4.5,low,male,married,white
+29.0,27.0,younger mom,37.0,full term,21.0,34.0,7.1,not low,female,not married,white
+28.0,22.0,younger mom,30.971118116097735,premie,2.0,75.16475357966655,3.2778345694928483,low,male,not married,white
+29.0,29.0,younger mom,40.0,full term,10.0,35.0,7.44,not low,female,married,white
+41.0,33.0,younger mom,41.0,full term,15.0,25.0,6.06,not low,female,married,not white
+45.0,32.0,younger mom,38.0,full term,7.0,32.0,5.22,low,male,married,white
+31.0,21.0,younger mom,38.0,full term,14.0,17.0,6.61,not low,male,not married,white
+31.0,23.0,younger mom,39.0,full term,8.0,29.0,6.6,not low,female,not married,not white
+29.0,24.0,younger mom,41.0,full term,14.0,33.0,8.5,not low,male,married,white
+38.0,38.0,mature mom,39.0,full term,12.0,3.0,8.56,not low,male,married,white
+28.0,22.0,younger mom,38.0,full term,14.0,34.0,7.25,not low,male,not married,not white
+20.0,18.0,younger mom,40.0,full term,14.0,40.0,7.59,not low,female,not married,not white
+30.0,29.0,younger mom,39.0,full term,12.0,30.0,9.65,not low,female,not married,white
+29.0,28.0,younger mom,41.0,full term,11.0,31.0,7.81,not low,female,not married,white
+35.0,36.0,mature mom,39.0,full term,17.0,19.0,8.94,not low,male,not married,white
+29.0,27.0,younger mom,30.971118116097735,premie,1.0,30.0,3.2778345694928483,low,female,not married,not white
+27.0,20.0,younger mom,37.0,full term,10.0,32.0,6.05,not low,female,not married,not white
+31.0,36.0,mature mom,39.0,full term,13.0,23.0,5.65,not low,female,married,white
+29.0,25.0,younger mom,42.0,full term,17.0,25.0,7.36,not low,female,married,white
+29.0,26.0,younger mom,38.0,full term,0.0,14.0,7.69,not low,female,married,white
+20.0,22.0,younger mom,43.0,full term,10.0,30.0,5.19,low,female,married,not white
+27.0,28.0,younger mom,39.0,full term,20.0,46.0,7.53,not low,female,married,white
+21.0,18.0,younger mom,37.0,full term,10.0,26.0,6.12,not low,female,not married,not white
+32.0,34.0,younger mom,41.0,full term,14.0,30.0,6.75,not low,female,married,white
+32.0,27.0,younger mom,40.0,full term,7.0,3.0,9.0,not low,male,married,white
+34.0,33.0,younger mom,40.0,full term,13.0,25.0,7.85,not low,female,married,white
+24.0,39.0,mature mom,38.0,full term,10.0,26.0,7.12,not low,female,married,white
+28.0,29.0,younger mom,38.0,full term,12.0,22.0,8.31,not low,male,not married,white
+37.0,35.0,mature mom,37.0,full term,14.0,38.0,5.0,low,female,married,not white
+31.0,27.0,younger mom,40.0,full term,12.0,37.0,6.95,not low,female,married,not white
+44.0,41.0,mature mom,38.0,full term,12.0,7.0,7.82,not low,female,married,white
+33.0,28.0,younger mom,33.0,premie,20.0,29.0,6.31,not low,male,married,white
+31.0,20.0,younger mom,38.0,full term,0.0,15.0,6.81,not low,male,not married,white
+43.0,41.0,mature mom,40.0,full term,14.0,33.0,9.06,not low,male,married,not white
+22.0,20.0,younger mom,37.0,full term,14.0,11.0,5.13,low,female,not married,white
+26.0,19.0,younger mom,35.0,premie,6.0,28.0,6.06,not low,male,married,white
+31.0,23.0,younger mom,46.0,full term,14.0,43.0,6.44,not low,male,not married,not white
+40.0,28.0,younger mom,39.0,full term,11.0,30.0,7.69,not low,female,married,white
+43.0,41.0,mature mom,39.0,full term,13.0,47.0,7.34,not low,female,married,not white
+24.0,21.0,younger mom,36.0,premie,12.0,45.0,6.33,not low,male,not married,not white
+36.0,30.0,younger mom,38.0,full term,10.0,27.0,7.5,not low,female,married,white
+27.0,28.0,younger mom,40.0,full term,13.0,2.0,5.69,not low,female,married,not white
+26.0,32.0,younger mom,39.0,full term,11.0,32.0,7.56,not low,female,married,white
+44.0,44.0,mature mom,39.0,full term,12.0,35.0,7.1,not low,male,married,not white
+22.0,19.0,younger mom,42.0,full term,11.0,75.16475357966655,6.85,not low,female,not married,white
+28.0,23.0,younger mom,40.0,full term,7.0,28.0,6.25,not low,female,married,white
+37.0,39.0,mature mom,40.0,full term,12.0,40.0,6.5,not low,female,married,white
+33.0,30.0,younger mom,40.0,full term,15.0,19.0,7.37,not low,female,married,white
+33.0,26.0,younger mom,39.0,full term,12.0,54.0,6.68,not low,female,married,white
+23.0,20.0,younger mom,39.0,full term,12.0,31.0,8.38,not low,female,not married,white
+35.0,37.0,mature mom,41.0,full term,12.0,29.0,7.72,not low,female,married,white
+31.0,26.0,younger mom,37.0,full term,10.0,30.0,6.56,not low,male,married,not white
+36.0,39.0,mature mom,38.0,full term,10.0,35.0,7.28,not low,male,married,white
+22.0,25.0,younger mom,41.0,full term,15.0,47.0,9.13,not low,male,married,white
+31.0,30.0,younger mom,39.0,full term,10.0,60.0,5.49,low,male,married,not white
+27.0,24.0,younger mom,42.0,full term,17.0,43.0,8.13,not low,male,not married,white
+33.0,26.0,younger mom,39.0,full term,10.0,22.0,6.75,not low,female,married,not white
+25.0,32.0,younger mom,41.0,full term,13.0,41.0,8.31,not low,female,not married,white
+31.0,35.0,mature mom,39.0,full term,12.0,37.0,7.34,not low,male,married,white
+35.0,34.0,younger mom,39.0,full term,20.0,30.0,7.7,not low,female,married,white
+25.0,25.0,younger mom,39.0,full term,11.0,30.0,7.25,not low,male,not married,white
+17.0,19.0,younger mom,39.0,full term,11.0,30.0,7.43,not low,male,not married,not white
+26.0,26.0,younger mom,38.0,full term,12.0,29.0,6.79,not low,female,married,white
+31.0,28.0,younger mom,38.0,full term,9.0,30.0,9.0,not low,male,not married,white
+28.0,22.0,younger mom,38.0,full term,13.0,34.0,6.25,not low,female,married,white
+33.0,30.0,younger mom,41.0,full term,12.0,35.0,7.25,not low,female,married,white
+21.0,21.0,younger mom,39.0,full term,12.0,23.0,6.9,not low,male,not married,white
+31.0,23.0,younger mom,32.0,premie,9.0,4.0,4.44,low,male,not married,white
+26.0,19.0,younger mom,40.0,full term,6.0,8.0,6.06,not low,male,not married,white
+37.0,33.0,younger mom,39.0,full term,14.0,20.0,6.94,not low,male,married,not white
+34.0,27.0,younger mom,39.0,full term,12.0,48.0,6.97,not low,female,married,not white
+37.0,26.0,younger mom,42.0,full term,10.0,22.0,9.44,not low,male,married,white
+28.0,27.0,younger mom,38.0,full term,10.0,28.0,5.75,not low,female,married,white
+28.0,26.0,younger mom,37.0,full term,11.0,52.0,8.7,not low,male,married,white
+25.0,24.0,younger mom,40.0,full term,10.0,75.16475357966655,8.05,not low,female,not married,white
+20.0,25.0,younger mom,41.0,full term,10.0,30.0,7.0,not low,female,not married,white
+31.0,36.0,mature mom,36.0,premie,12.0,15.0,4.69,low,male,not married,not white
+31.0,27.0,younger mom,40.0,full term,10.0,26.0,6.94,not low,female,married,white
+40.0,40.0,mature mom,38.0,full term,6.0,22.0,6.92,not low,female,married,white
+32.0,27.0,younger mom,39.0,full term,13.0,34.0,7.19,not low,male,married,white
+39.0,34.0,younger mom,39.0,full term,10.0,20.0,8.81,not low,female,married,not white
+31.0,30.0,younger mom,39.0,full term,11.0,18.0,8.49,not low,male,married,white
+15.0,18.0,younger mom,39.0,full term,4.0,9.0,7.37,not low,female,not married,white
+38.0,35.0,mature mom,40.0,full term,12.0,32.0,8.44,not low,female,married,white
+38.0,35.0,mature mom,37.0,full term,12.0,29.0,7.61,not low,female,married,not white
+31.0,28.0,younger mom,38.0,full term,7.0,29.0,7.25,not low,female,not married,not white
+36.0,30.0,younger mom,35.0,premie,13.0,28.0,6.05,not low,female,married,white
+27.0,29.0,younger mom,40.0,full term,11.0,18.0,6.25,not low,female,married,white
+35.0,42.0,mature mom,39.0,full term,12.0,30.0,7.0,not low,male,not married,white
+35.0,36.0,mature mom,41.0,full term,14.0,27.0,8.14,not low,female,married,white
+37.0,31.0,younger mom,40.0,full term,17.0,42.0,8.11,not low,female,married,white
+31.0,23.0,younger mom,39.0,full term,11.0,26.0,7.46,not low,female,not married,white
+44.0,39.0,mature mom,40.0,full term,12.0,40.0,7.87,not low,female,married,white
+34.0,26.0,younger mom,42.0,full term,14.0,74.0,7.84,not low,male,married,white
+37.0,21.0,younger mom,40.0,full term,16.0,29.0,7.69,not low,female,married,white
+30.0,30.0,younger mom,39.0,full term,8.0,31.0,7.94,not low,male,married,white
+25.0,25.0,younger mom,38.0,full term,10.0,10.0,5.96,not low,male,not married,white
+17.0,22.0,younger mom,30.971118116097735,premie,6.0,4.0,6.49,not low,female,not married,white
+31.0,17.0,younger mom,39.0,full term,11.0,12.0,6.06,not low,male,not married,white
+31.0,25.0,younger mom,39.0,full term,10.0,11.0,6.94,not low,female,not married,not white
+28.0,28.0,younger mom,40.0,full term,15.0,38.0,7.75,not low,female,married,not white
+37.0,31.0,younger mom,38.0,full term,11.0,48.0,8.61,not low,male,not married,white
+33.0,27.0,younger mom,40.0,full term,14.0,41.0,8.69,not low,male,married,white
+31.0,33.0,younger mom,41.0,full term,14.0,16.0,6.46,not low,female,married,white
+30.0,28.0,younger mom,37.0,full term,3.0,30.0,6.21,not low,female,not married,not white
+27.0,27.0,younger mom,36.0,premie,14.0,37.0,9.0,not low,male,not married,not white
+29.0,31.0,younger mom,37.0,full term,15.0,37.0,7.37,not low,male,married,white
+31.0,27.0,younger mom,38.0,full term,7.0,48.0,8.11,not low,female,not married,not white
+31.0,23.0,younger mom,38.0,full term,13.0,44.0,6.4,not low,female,not married,not white
+28.0,23.0,younger mom,40.0,full term,16.0,35.0,8.56,not low,female,not married,white
+24.0,21.0,younger mom,40.0,full term,0.0,30.0,7.8,not low,female,not married,white
+39.0,33.0,younger mom,38.0,full term,11.0,25.0,7.93,not low,female,married,white
+25.0,25.0,younger mom,40.0,full term,13.0,62.0,6.04,not low,male,not married,white
+29.0,32.0,younger mom,38.0,full term,23.370515791130217,1.0,8.13,not low,male,married,not white
+26.0,23.0,younger mom,39.0,full term,6.0,9.0,8.62,not low,male,married,white
+26.0,26.0,younger mom,39.0,full term,12.0,15.0,7.44,not low,female,married,white
+28.0,34.0,younger mom,35.0,premie,5.0,30.0,5.61,not low,male,not married,not white
+30.0,33.0,younger mom,41.0,full term,14.0,37.0,6.25,not low,male,married,not white
+28.0,22.0,younger mom,37.0,full term,13.0,34.0,7.13,not low,female,married,white
+29.0,29.0,younger mom,40.0,full term,12.0,30.0,7.28,not low,male,married,white
+30.0,27.0,younger mom,40.0,full term,13.0,75.16475357966655,8.38,not low,male,not married,white
+31.0,31.0,younger mom,40.0,full term,13.0,38.0,7.44,not low,male,not married,white
+34.0,31.0,younger mom,43.0,full term,11.0,34.0,9.81,not low,male,married,white
+31.0,21.0,younger mom,39.0,full term,10.0,47.0,7.2,not low,male,not married,white
+32.0,28.0,younger mom,43.0,full term,12.0,25.0,9.0,not low,female,married,not white
+22.0,20.0,younger mom,38.0,full term,18.0,35.0,6.5,not low,male,not married,white
+30.0,27.0,younger mom,38.0,full term,17.0,0.0,7.31,not low,female,married,white
+21.0,26.0,younger mom,41.0,full term,11.0,51.0,7.63,not low,male,married,white
+29.0,29.0,younger mom,40.0,full term,13.0,34.0,8.39,not low,female,married,not white
+42.0,27.0,younger mom,38.0,full term,9.0,34.0,6.32,not low,female,married,not white
+31.0,20.0,younger mom,39.0,full term,3.0,33.0,6.31,not low,female,not married,white
+30.0,35.0,mature mom,38.0,full term,11.0,20.0,7.39,not low,female,married,white
+30.0,27.0,younger mom,39.0,full term,13.0,42.0,7.74,not low,male,married,white
+31.0,29.0,younger mom,30.971118116097735,premie,4.0,30.0,3.2778345694928483,low,female,not married,not white
+34.0,31.0,younger mom,41.0,full term,12.0,37.0,7.5,not low,female,married,white
+22.0,22.0,younger mom,40.0,full term,7.0,18.0,5.94,not low,male,not married,not white
+34.0,33.0,younger mom,39.0,full term,11.0,36.0,5.68,not low,female,married,not white
+27.0,24.0,younger mom,38.0,full term,10.0,47.0,5.6,not low,male,married,white
+28.0,24.0,younger mom,37.0,full term,14.0,42.0,7.25,not low,male,married,white
+28.0,20.0,younger mom,39.0,full term,10.0,45.0,8.06,not low,male,married,white
+38.0,32.0,younger mom,39.0,full term,10.0,67.0,8.53,not low,male,not married,not white
+42.0,33.0,younger mom,39.0,full term,10.0,15.0,7.81,not low,female,married,white
+29.0,27.0,younger mom,40.0,full term,15.0,31.0,7.54,not low,female,married,white
+24.0,25.0,younger mom,40.0,full term,18.0,13.0,7.25,not low,male,married,white
+27.0,27.0,younger mom,39.0,full term,13.0,30.0,8.75,not low,female,married,white
+25.0,24.0,younger mom,39.0,full term,11.0,32.0,8.5,not low,male,married,white
+31.0,23.0,younger mom,34.0,premie,0.0,22.0,4.96,low,male,not married,not white
+35.0,38.0,mature mom,39.0,full term,12.0,30.0,8.19,not low,male,married,white
+34.0,31.0,younger mom,41.0,full term,9.0,20.0,8.44,not low,male,married,white
+48.0,40.0,mature mom,36.0,premie,12.0,44.0,6.8,not low,male,married,white
+41.0,35.0,mature mom,39.0,full term,13.0,36.0,9.87,not low,male,married,white
+27.0,24.0,younger mom,38.0,full term,15.0,48.0,6.94,not low,female,married,white
+47.0,36.0,mature mom,39.0,full term,19.0,15.0,7.89,not low,female,married,not white
+27.0,26.0,younger mom,40.0,full term,15.0,34.0,6.77,not low,female,married,white
+30.0,30.0,younger mom,40.0,full term,7.0,39.0,9.12,not low,male,not married,white
+34.0,31.0,younger mom,41.0,full term,10.0,34.0,8.72,not low,female,married,not white
+41.0,41.0,mature mom,40.0,full term,1.0,20.0,9.0,not low,male,married,white
+22.0,20.0,younger mom,30.971118116097735,premie,5.0,35.0,3.33,low,female,not married,not white
+31.0,21.0,younger mom,41.0,full term,14.0,39.0,6.38,not low,female,not married,not white
+25.0,27.0,younger mom,39.0,full term,9.0,40.0,7.56,not low,female,married,white
+23.0,25.0,younger mom,41.0,full term,13.0,7.0,7.29,not low,male,not married,white
+37.0,34.0,younger mom,42.0,full term,9.0,40.0,6.94,not low,female,married,white
+32.0,34.0,younger mom,39.0,full term,8.0,53.0,8.26,not low,female,married,not white
+34.0,33.0,younger mom,40.0,full term,13.0,42.0,8.38,not low,male,married,white
+33.0,21.0,younger mom,43.0,full term,12.0,14.0,7.69,not low,male,married,white
+29.0,26.0,younger mom,38.0,full term,10.0,34.0,6.92,not low,male,married,white
+20.0,22.0,younger mom,38.0,full term,20.0,59.0,7.87,not low,female,not married,white
+28.0,30.0,younger mom,37.0,full term,12.0,32.0,8.27,not low,male,married,white
+21.0,25.0,younger mom,41.0,full term,9.0,16.0,8.52,not low,male,married,not white
+18.0,23.0,younger mom,36.0,premie,20.0,56.0,7.87,not low,male,not married,not white
+20.0,20.0,younger mom,39.0,full term,11.0,50.0,5.37,low,male,not married,white
+35.0,33.0,younger mom,37.0,full term,10.0,42.0,5.81,not low,female,married,not white
+36.0,34.0,younger mom,40.0,full term,18.0,24.0,6.53,not low,female,married,white
+44.0,38.0,mature mom,39.0,full term,16.0,21.0,6.62,not low,male,married,not white
+35.0,35.0,mature mom,40.0,full term,13.0,42.0,9.0,not low,female,married,white
+22.0,22.0,younger mom,36.0,premie,20.0,70.0,5.69,not low,female,married,white
+31.0,23.0,younger mom,30.971118116097735,premie,0.0,11.0,3.2778345694928483,low,female,not married,white
+31.0,24.0,younger mom,39.0,full term,6.0,14.0,7.18,not low,male,not married,not white
+27.0,32.0,younger mom,36.0,premie,9.0,28.0,6.94,not low,male,married,not white
+42.0,35.0,mature mom,39.0,full term,11.0,27.0,7.94,not low,female,married,white
+36.0,38.0,mature mom,35.0,premie,10.0,20.0,8.88,not low,male,married,white
+31.0,17.0,younger mom,38.0,full term,10.0,17.0,8.75,not low,female,not married,not white
+24.0,20.0,younger mom,39.0,full term,12.0,39.0,7.22,not low,male,not married,not white
+21.0,24.0,younger mom,39.0,full term,9.0,58.0,8.46,not low,male,not married,white
+31.0,33.0,younger mom,38.0,full term,20.0,9.0,7.71,not low,female,married,white
+35.0,33.0,younger mom,33.0,premie,10.0,18.0,4.63,low,female,married,white
+41.0,38.0,mature mom,44.0,full term,20.0,16.0,9.5,not low,female,not married,white
+26.0,28.0,younger mom,37.0,full term,16.0,5.0,6.27,not low,male,married,white
+28.0,28.0,younger mom,40.0,full term,12.0,25.0,7.63,not low,male,married,white
+33.0,30.0,younger mom,38.0,full term,10.0,26.0,6.88,not low,female,married,white
+36.0,21.0,younger mom,40.0,full term,20.0,44.0,8.18,not low,male,not married,white
+31.0,16.0,younger mom,43.0,full term,12.0,28.0,6.07,not low,female,not married,white
+38.0,32.0,younger mom,39.0,full term,20.0,40.0,8.19,not low,male,married,white
+22.0,28.0,younger mom,41.0,full term,11.0,63.0,8.82,not low,female,not married,white
+31.0,32.0,younger mom,37.0,full term,16.0,30.0,6.79,not low,female,not married,white
+25.0,18.0,younger mom,39.0,full term,12.0,31.0,7.19,not low,female,not married,white
+31.0,22.0,younger mom,33.0,premie,4.0,2.0,6.42,not low,male,not married,white
+34.0,30.0,younger mom,39.0,full term,17.0,18.0,6.89,not low,male,married,white
+22.0,21.0,younger mom,39.0,full term,8.0,30.0,9.23,not low,female,not married,white
+30.0,30.0,younger mom,38.0,full term,8.0,2.0,6.08,not low,male,married,not white
+23.0,23.0,younger mom,38.0,full term,12.0,55.0,7.36,not low,male,married,white
+31.0,30.0,younger mom,39.0,full term,14.0,39.0,8.35,not low,male,married,white
+39.0,27.0,younger mom,37.0,full term,10.0,36.0,7.3,not low,female,not married,not white
+20.0,19.0,younger mom,39.0,full term,12.0,53.0,8.87,not low,female,not married,not white
+35.0,30.0,younger mom,34.0,premie,8.0,53.0,4.38,low,female,married,white
+32.0,22.0,younger mom,36.0,premie,6.0,14.0,5.31,low,male,not married,white
+26.0,30.0,younger mom,35.0,premie,12.0,37.0,6.11,not low,male,not married,not white
+30.0,27.0,younger mom,34.0,premie,10.0,23.0,5.88,not low,male,married,white
+30.0,32.0,younger mom,41.0,full term,14.0,28.0,5.81,not low,female,not married,white
+28.0,29.0,younger mom,41.0,full term,15.0,45.0,7.56,not low,female,married,white
+31.0,17.0,younger mom,38.0,full term,11.0,8.0,7.09,not low,male,not married,white
+31.0,31.0,younger mom,38.0,full term,20.0,22.0,8.31,not low,male,not married,white
+25.0,30.0,younger mom,41.0,full term,18.0,8.0,7.18,not low,male,not married,white
+40.0,33.0,younger mom,36.0,premie,15.0,38.0,5.47,low,female,not married,not white
+42.0,32.0,younger mom,39.0,full term,5.0,33.0,6.9,not low,female,not married,white
+20.0,19.0,younger mom,41.0,full term,9.0,10.0,6.22,not low,male,not married,white
+31.0,19.0,younger mom,39.0,full term,10.0,25.0,6.93,not low,female,not married,not white
+35.0,26.0,younger mom,36.0,premie,12.0,30.0,5.71,not low,male,married,white
+25.0,25.0,younger mom,40.0,full term,10.0,14.0,7.44,not low,male,not married,not white
+31.0,27.0,younger mom,39.0,full term,16.0,10.0,6.67,not low,female,married,white
+31.0,21.0,younger mom,39.0,full term,12.0,26.0,6.62,not low,female,married,white
+33.0,37.0,mature mom,37.0,full term,12.0,59.0,9.46,not low,male,married,white
+38.0,40.0,mature mom,35.0,premie,6.0,17.0,5.0,low,female,not married,white
+27.0,25.0,younger mom,39.0,full term,8.0,25.0,6.94,not low,female,not married,white
+36.0,36.0,mature mom,39.0,full term,6.0,33.0,6.81,not low,male,married,white
+21.0,20.0,younger mom,38.0,full term,7.0,44.0,7.11,not low,female,not married,white
+20.0,24.0,younger mom,40.0,full term,13.0,33.0,8.69,not low,male,married,white
+21.0,25.0,younger mom,39.0,full term,10.0,35.0,6.76,not low,female,not married,not white
+43.0,38.0,mature mom,38.0,full term,8.0,44.0,8.72,not low,male,married,white
+36.0,36.0,mature mom,35.0,premie,12.0,46.0,6.31,not low,male,married,white
+28.0,29.0,younger mom,40.0,full term,4.0,32.0,8.06,not low,male,married,white
+30.0,30.0,younger mom,39.0,full term,15.0,25.0,7.5,not low,male,married,white
+31.0,29.0,younger mom,30.971118116097735,premie,1.0,30.0,3.2778345694928483,low,female,not married,not white
+31.0,30.0,younger mom,39.0,full term,12.0,36.0,7.94,not low,male,married,white
+29.0,28.0,younger mom,40.0,full term,14.0,23.0,7.5,not low,female,married,white
+44.0,33.0,younger mom,37.0,full term,20.0,41.0,7.77,not low,male,married,white
+30.0,33.0,younger mom,39.0,full term,16.0,32.0,9.33,not low,female,married,white
+31.0,40.0,mature mom,32.0,premie,0.0,20.0,3.2778345694928483,low,female,not married,not white
+30.0,34.0,younger mom,40.0,full term,12.0,17.0,7.52,not low,male,married,white
+24.0,21.0,younger mom,41.0,full term,10.0,22.0,7.76,not low,male,married,not white
+32.0,29.0,younger mom,40.0,full term,15.0,30.0,6.62,not low,female,married,white
+34.0,30.0,younger mom,41.0,full term,14.0,30.0,6.69,not low,female,married,white
+31.0,25.0,younger mom,39.0,full term,15.0,20.0,7.23,not low,female,not married,white
+28.0,26.0,younger mom,40.0,full term,12.0,43.0,7.63,not low,female,married,white
+30.0,25.0,younger mom,38.0,full term,10.0,11.0,6.12,not low,male,not married,white
+20.0,21.0,younger mom,39.0,full term,19.0,35.0,8.5,not low,male,not married,white
+27.0,27.0,younger mom,40.0,full term,10.0,11.0,8.54,not low,male,not married,not white
+39.0,31.0,younger mom,40.0,full term,6.0,25.0,6.45,not low,female,married,white
+23.0,30.0,younger mom,41.0,full term,10.0,20.0,6.5,not low,male,not married,white
+21.0,20.0,younger mom,40.0,full term,10.0,25.0,5.82,not low,female,not married,white
+23.0,30.0,younger mom,37.0,full term,13.0,49.0,6.88,not low,female,not married,white
+26.0,24.0,younger mom,40.0,full term,15.0,30.0,6.66,not low,female,married,not white
+20.0,21.0,younger mom,43.0,full term,13.0,60.0,8.37,not low,male,not married,not white
+31.0,24.0,younger mom,41.0,full term,12.0,45.0,7.75,not low,male,not married,not white
+31.0,37.0,mature mom,40.0,full term,15.0,37.0,7.63,not low,male,not married,white
+30.0,29.0,younger mom,39.0,full term,12.0,30.0,7.81,not low,male,married,white
+37.0,35.0,mature mom,37.0,full term,8.0,24.0,6.37,not low,female,married,not white
+31.0,20.0,younger mom,42.0,full term,13.0,17.0,6.44,not low,female,not married,white
+31.0,23.0,younger mom,40.0,full term,12.0,55.0,7.79,not low,male,not married,not white
+29.0,28.0,younger mom,38.0,full term,11.0,28.0,7.56,not low,male,married,not white
+36.0,34.0,younger mom,38.0,full term,10.0,34.0,9.0,not low,male,married,white
+33.0,32.0,younger mom,38.0,full term,12.0,30.0,6.19,not low,female,married,white
+38.0,35.0,mature mom,40.0,full term,12.0,30.0,7.87,not low,male,married,white
+29.0,29.0,younger mom,36.0,premie,11.0,24.0,5.3,low,female,married,white
+18.0,18.0,younger mom,40.0,full term,7.0,54.0,8.75,not low,female,not married,white
+31.0,26.0,younger mom,40.0,full term,5.0,0.0,8.06,not low,female,not married,not white
+32.0,27.0,younger mom,41.0,full term,13.0,31.0,6.87,not low,male,not married,white
+31.0,28.0,younger mom,42.0,full term,11.0,36.0,6.14,not low,female,not married,not white
+27.0,29.0,younger mom,38.0,full term,14.0,29.0,7.19,not low,female,married,white
+21.0,24.0,younger mom,39.0,full term,13.0,32.0,7.84,not low,female,not married,white
+39.0,35.0,mature mom,40.0,full term,11.0,50.0,9.43,not low,female,not married,not white
+35.0,29.0,younger mom,39.0,full term,10.0,27.0,7.81,not low,female,married,white
+37.0,35.0,mature mom,35.0,premie,20.0,45.0,5.03,low,male,married,white
+39.0,37.0,mature mom,39.0,full term,4.0,18.0,6.26,not low,female,married,white
+35.0,33.0,younger mom,36.0,premie,10.0,54.0,8.6,not low,male,married,white
+31.0,27.0,younger mom,38.0,full term,5.0,30.0,6.79,not low,male,not married,white
+30.0,35.0,mature mom,37.0,full term,10.0,48.0,7.69,not low,female,married,white
+23.0,18.0,younger mom,42.0,full term,6.0,30.0,6.62,not low,female,not married,white
+27.0,25.0,younger mom,38.0,full term,10.0,28.0,6.67,not low,male,not married,white
+31.0,29.0,younger mom,39.0,full term,12.0,15.0,7.31,not low,male,not married,not white
+34.0,32.0,younger mom,40.0,full term,14.0,27.0,7.75,not low,female,married,white
+29.0,27.0,younger mom,39.0,full term,10.0,28.0,7.44,not low,male,not married,white
+30.0,30.0,younger mom,40.0,full term,9.0,50.0,10.13,not low,male,married,white
+20.0,22.0,younger mom,41.0,full term,18.0,67.0,10.03,not low,male,not married,white
+24.0,38.0,mature mom,41.0,full term,3.0,30.0,9.03,not low,female,not married,white
+24.0,19.0,younger mom,39.0,full term,11.0,23.0,6.92,not low,female,not married,white
+27.0,29.0,younger mom,33.0,premie,9.0,17.0,5.72,not low,male,married,white
+24.0,27.0,younger mom,40.0,full term,12.0,33.0,8.08,not low,female,not married,white
+22.0,23.0,younger mom,37.0,full term,13.0,36.0,5.99,not low,male,married,white
+31.0,29.0,younger mom,41.0,full term,12.0,45.0,8.25,not low,male,married,white
+30.0,38.0,mature mom,40.0,full term,14.0,21.0,7.61,not low,male,married,white
+45.0,34.0,younger mom,38.0,full term,12.0,26.0,5.75,not low,male,married,white
+34.0,26.0,younger mom,38.0,full term,12.0,27.0,7.39,not low,male,not married,not white
+37.0,34.0,younger mom,41.0,full term,12.0,11.0,8.99,not low,male,married,white
+23.0,23.0,younger mom,39.0,full term,9.0,13.0,5.91,not low,female,married,white
+31.0,21.0,younger mom,38.0,full term,10.0,42.0,7.54,not low,female,not married,not white
+43.0,32.0,younger mom,40.0,full term,18.0,30.0,7.5,not low,male,not married,not white
+34.0,29.0,younger mom,43.0,full term,12.0,10.0,6.88,not low,male,not married,white
+44.0,36.0,mature mom,40.0,full term,13.0,29.0,6.5,not low,female,married,white
+29.0,29.0,younger mom,41.0,full term,21.0,44.0,8.99,not low,female,married,white
+42.0,36.0,mature mom,39.0,full term,10.0,40.0,8.25,not low,male,married,white
+36.0,32.0,younger mom,37.0,full term,12.0,21.0,5.22,low,male,not married,white
+31.0,39.0,mature mom,41.0,full term,12.0,30.0,6.31,not low,female,not married,white
+29.0,30.0,younger mom,31.0,premie,14.0,51.0,3.2778345694928483,low,male,married,white
+27.0,24.0,younger mom,39.0,full term,12.0,37.0,7.93,not low,female,married,white
+24.0,22.0,younger mom,39.0,full term,18.0,30.0,7.31,not low,female,not married,white
+33.0,30.0,younger mom,39.0,full term,12.0,22.0,7.39,not low,female,married,not white
+31.0,26.0,younger mom,40.0,full term,9.0,28.0,5.33,low,female,not married,not white
+35.0,31.0,younger mom,37.0,full term,6.0,41.0,7.06,not low,male,married,not white
+31.0,20.0,younger mom,41.0,full term,15.0,26.0,7.62,not low,male,not married,white
+39.0,32.0,younger mom,39.0,full term,6.0,9.0,7.5,not low,female,married,white
+34.0,30.0,younger mom,44.0,full term,14.0,34.0,7.71,not low,female,married,not white
+35.0,31.0,younger mom,38.0,full term,12.0,32.0,5.18,low,male,married,not white
+22.0,24.0,younger mom,41.0,full term,12.0,30.0,7.61,not low,female,not married,white
+24.0,22.0,younger mom,40.0,full term,13.0,32.0,6.75,not low,male,not married,not white
+27.0,25.0,younger mom,39.0,full term,9.0,28.0,7.63,not low,female,married,white
+30.0,29.0,younger mom,41.0,full term,17.0,47.0,7.56,not low,female,not married,white
+28.0,27.0,younger mom,39.0,full term,10.0,30.0,6.93,not low,male,married,white
+38.0,36.0,mature mom,34.0,premie,12.0,41.0,8.11,not low,male,married,white
+27.0,31.0,younger mom,39.0,full term,9.0,27.0,6.94,not low,female,married,white
+38.0,23.0,younger mom,39.0,full term,11.0,54.0,7.13,not low,female,married,white
+37.0,35.0,mature mom,40.0,full term,13.0,32.0,10.13,not low,male,married,white
+29.0,22.0,younger mom,40.0,full term,12.0,23.0,8.01,not low,male,not married,white
+44.0,27.0,younger mom,37.0,full term,13.0,56.0,7.41,not low,male,married,white
+21.0,23.0,younger mom,30.971118116097735,premie,6.0,0.0,3.2778345694928483,low,male,married,not white
+26.0,24.0,younger mom,40.0,full term,12.0,48.0,7.96,not low,female,married,white
+28.0,29.0,younger mom,41.0,full term,14.0,32.0,7.33,not low,female,married,white
+38.0,32.0,younger mom,39.0,full term,13.0,25.0,5.29,low,female,married,white
+33.0,26.0,younger mom,41.0,full term,10.0,17.0,6.75,not low,female,married,white
+41.0,34.0,younger mom,39.0,full term,15.0,29.0,7.19,not low,male,married,white
+29.0,27.0,younger mom,39.0,full term,15.0,9.0,5.4,low,male,not married,white
+28.0,28.0,younger mom,40.0,full term,13.0,38.0,7.15,not low,male,married,white
+38.0,37.0,mature mom,39.0,full term,12.0,45.0,7.46,not low,female,married,white
+31.0,17.0,younger mom,38.0,full term,16.0,41.0,7.5,not low,male,not married,white
+31.0,19.0,younger mom,39.0,full term,14.0,64.0,6.81,not low,male,not married,not white
+31.0,29.0,younger mom,46.0,full term,19.0,75.16475357966655,6.69,not low,female,married,white
+40.0,34.0,younger mom,39.0,full term,8.0,27.0,7.94,not low,female,not married,not white
+32.0,31.0,younger mom,39.0,full term,12.0,36.0,7.25,not low,male,married,white
+42.0,29.0,younger mom,38.0,full term,12.0,57.0,7.12,not low,male,married,not white
+32.0,34.0,younger mom,38.0,full term,10.0,20.0,7.56,not low,female,married,white
+30.0,28.0,younger mom,38.0,full term,10.0,43.0,8.25,not low,male,married,white
+34.0,30.0,younger mom,40.0,full term,13.0,25.0,8.19,not low,male,not married,white
+34.0,34.0,younger mom,37.0,full term,11.0,40.0,7.64,not low,male,married,white
+28.0,28.0,younger mom,39.0,full term,12.0,37.0,9.57,not low,male,married,white
+21.0,22.0,younger mom,38.0,full term,12.0,32.0,8.56,not low,male,not married,white
+30.0,30.0,younger mom,40.0,full term,12.0,42.0,8.31,not low,male,married,white
+32.0,30.0,younger mom,37.0,full term,9.0,25.0,5.05,low,female,married,not white
+39.0,27.0,younger mom,39.0,full term,10.0,20.0,6.75,not low,male,married,not white
+33.0,30.0,younger mom,38.0,full term,13.0,60.0,8.93,not low,male,married,white
+21.0,20.0,younger mom,30.971118116097735,premie,18.0,42.0,4.14,low,female,not married,not white
+27.0,31.0,younger mom,40.0,full term,15.0,42.0,9.33,not low,female,married,white
+32.0,32.0,younger mom,42.0,full term,12.0,27.0,7.44,not low,male,married,white
+40.0,34.0,younger mom,38.0,full term,9.0,42.0,9.63,not low,female,married,white
+31.0,29.0,younger mom,38.0,full term,20.0,19.0,7.19,not low,female,married,white
+31.0,31.0,younger mom,39.0,full term,11.0,42.0,9.41,not low,male,married,white
+26.0,26.0,younger mom,40.0,full term,15.0,19.0,7.94,not low,female,married,white
+26.0,36.0,mature mom,38.0,full term,11.0,38.0,6.31,not low,female,married,white
+33.0,34.0,younger mom,38.0,full term,12.0,36.0,7.25,not low,female,married,white
+38.0,36.0,mature mom,39.0,full term,13.0,30.0,7.73,not low,female,married,not white
+22.0,22.0,younger mom,40.0,full term,12.0,22.0,7.13,not low,female,not married,white
+35.0,33.0,younger mom,40.0,full term,15.0,25.0,7.75,not low,male,married,white
+43.0,36.0,mature mom,38.0,full term,1.0,33.0,6.33,not low,female,married,white
+32.0,27.0,younger mom,39.0,full term,11.0,35.0,8.81,not low,male,married,white
+28.0,34.0,younger mom,39.0,full term,15.0,23.0,7.37,not low,male,married,white
+40.0,36.0,mature mom,36.0,premie,9.0,35.0,6.56,not low,male,married,white
+29.0,26.0,younger mom,41.0,full term,12.0,20.0,7.69,not low,female,not married,not white
+51.04807505986596,36.0,mature mom,36.0,premie,11.0,10.0,4.54,low,female,married,not white
+34.0,29.0,younger mom,39.0,full term,11.0,40.0,8.81,not low,male,married,white
+19.0,19.0,younger mom,40.0,full term,20.0,46.0,8.66,not low,female,not married,white
+30.0,30.0,younger mom,36.0,premie,18.0,20.0,5.06,low,female,married,white
+33.0,34.0,younger mom,35.0,premie,23.370515791130217,51.0,6.15,not low,male,not married,white
+26.0,24.0,younger mom,37.0,full term,8.0,33.0,7.19,not low,male,not married,white
+30.0,36.0,mature mom,41.0,full term,13.0,30.0,6.45,not low,female,not married,white
+15.0,21.0,younger mom,34.0,premie,9.0,43.0,4.32,low,male,not married,not white
+35.0,21.0,younger mom,40.0,full term,20.0,13.0,7.63,not low,female,married,white
+35.0,35.0,mature mom,39.0,full term,12.0,18.0,8.13,not low,male,married,white
+35.0,34.0,younger mom,40.0,full term,11.0,29.0,6.32,not low,female,not married,white
+31.0,27.0,younger mom,40.0,full term,10.0,35.0,7.37,not low,male,not married,not white
+31.0,20.0,younger mom,40.0,full term,12.0,40.0,8.19,not low,male,married,white
+37.0,26.0,younger mom,38.0,full term,0.0,0.0,7.11,not low,male,married,not white
+29.0,24.0,younger mom,39.0,full term,10.0,21.0,7.81,not low,female,not married,not white
+32.0,34.0,younger mom,39.0,full term,10.0,35.0,8.38,not low,female,married,white
+18.0,14.0,younger mom,38.0,full term,1.0,22.0,6.25,not low,female,not married,not white
+25.0,30.0,younger mom,39.0,full term,12.0,30.0,6.81,not low,female,married,not white
+29.0,29.0,younger mom,42.0,full term,6.0,20.0,7.82,not low,male,married,white
+31.0,26.0,younger mom,41.0,full term,13.0,31.0,8.25,not low,male,not married,white
+32.0,32.0,younger mom,39.0,full term,12.0,39.0,8.56,not low,male,married,white
+32.0,33.0,younger mom,35.0,premie,10.0,39.0,5.88,not low,male,married,white
+25.0,27.0,younger mom,39.0,full term,11.0,51.0,6.94,not low,female,not married,white
+34.0,30.0,younger mom,37.0,full term,12.0,34.0,7.19,not low,female,married,white
+39.0,39.0,mature mom,39.0,full term,12.0,21.0,8.06,not low,male,married,white
+38.0,31.0,younger mom,37.0,full term,14.0,30.0,8.31,not low,male,not married,white
+38.0,33.0,younger mom,39.0,full term,7.0,13.0,7.37,not low,female,married,white
+35.0,36.0,mature mom,39.0,full term,12.0,29.0,8.38,not low,male,married,not white
+27.0,37.0,mature mom,39.0,full term,10.0,46.0,8.02,not low,male,not married,white
+48.0,34.0,younger mom,38.0,full term,10.0,17.0,6.62,not low,female,married,white
+22.0,20.0,younger mom,39.0,full term,12.0,21.0,6.44,not low,female,not married,white
+22.0,21.0,younger mom,30.971118116097735,premie,9.0,28.0,6.19,not low,male,not married,white
+20.0,21.0,younger mom,39.0,full term,8.0,32.0,7.49,not low,male,not married,white
+26.0,23.0,younger mom,38.0,full term,10.0,22.0,7.0,not low,male,married,white
+34.0,29.0,younger mom,39.0,full term,12.0,20.0,8.6,not low,male,married,white
+33.0,33.0,younger mom,40.0,full term,11.0,45.0,8.98,not low,female,married,white
+30.0,31.0,younger mom,30.971118116097735,premie,14.0,28.0,4.31,low,male,not married,white
+25.0,27.0,younger mom,40.0,full term,13.0,34.0,7.94,not low,female,not married,white
+23.0,20.0,younger mom,40.0,full term,12.0,52.0,8.31,not low,male,not married,white
+36.0,33.0,younger mom,41.0,full term,12.0,21.0,6.81,not low,female,married,white
+28.0,23.0,younger mom,38.0,full term,11.0,18.0,7.06,not low,female,not married,white
+39.0,27.0,younger mom,37.0,full term,11.0,37.0,6.38,not low,male,not married,white
+43.0,29.0,younger mom,38.0,full term,14.0,47.0,7.87,not low,female,married,white
+26.0,27.0,younger mom,40.0,full term,20.0,24.0,7.81,not low,female,married,white
+35.0,38.0,mature mom,41.0,full term,10.0,21.0,8.72,not low,male,married,white
+32.0,26.0,younger mom,39.0,full term,7.0,50.0,7.98,not low,female,not married,white
+31.0,22.0,younger mom,38.0,full term,3.0,20.0,6.42,not low,male,not married,not white
+28.0,26.0,younger mom,38.0,full term,11.0,24.0,7.91,not low,female,married,white
+25.0,28.0,younger mom,39.0,full term,15.0,6.0,8.63,not low,male,married,white
+29.0,25.0,younger mom,39.0,full term,11.0,52.0,7.75,not low,male,married,white
+31.0,23.0,younger mom,41.0,full term,14.0,3.0,6.77,not low,male,not married,white
+22.0,19.0,younger mom,39.0,full term,12.0,30.0,5.47,low,male,not married,white
+43.0,35.0,mature mom,39.0,full term,13.0,21.0,10.41,not low,male,not married,white
+43.0,33.0,younger mom,39.0,full term,10.0,71.0,6.94,not low,female,married,not white
+30.0,26.0,younger mom,43.0,full term,12.0,38.0,8.2,not low,male,married,white
+31.0,29.0,younger mom,39.0,full term,7.0,30.0,7.97,not low,female,not married,white
+30.0,26.0,younger mom,39.0,full term,12.0,14.0,6.32,not low,female,married,white
+27.0,23.0,younger mom,41.0,full term,12.0,18.0,7.89,not low,male,married,not white
+35.0,30.0,younger mom,39.0,full term,12.0,18.0,6.39,not low,female,married,not white
+32.0,23.0,younger mom,40.0,full term,13.0,53.0,7.47,not low,male,married,white
+21.0,19.0,younger mom,37.0,full term,3.0,30.0,5.9,not low,female,not married,white
+37.0,34.0,younger mom,39.0,full term,20.0,41.0,7.56,not low,female,not married,white
+33.0,20.0,younger mom,38.0,full term,14.0,38.0,6.91,not low,female,not married,not white
+31.0,20.0,younger mom,41.0,full term,11.0,55.0,8.94,not low,male,not married,white
+38.0,34.0,younger mom,41.0,full term,15.0,32.0,7.45,not low,female,married,white
+31.0,21.0,younger mom,39.0,full term,14.0,18.0,7.01,not low,male,not married,white
+31.0,28.0,younger mom,38.0,full term,10.0,0.0,6.24,not low,female,not married,not white
+31.0,25.0,younger mom,39.0,full term,7.0,13.0,6.0,not low,male,not married,white
+37.0,34.0,younger mom,40.0,full term,8.0,35.0,8.64,not low,female,married,white
+42.0,31.0,younger mom,34.0,premie,7.0,47.0,5.11,low,male,married,white
+37.0,36.0,mature mom,40.0,full term,10.0,16.0,9.44,not low,male,married,white
+31.0,29.0,younger mom,39.0,full term,9.0,36.0,7.25,not low,male,married,white
+31.0,37.0,mature mom,41.0,full term,12.0,51.0,7.87,not low,male,not married,white
+32.0,33.0,younger mom,34.0,premie,8.0,70.0,5.06,low,female,married,white
+25.0,24.0,younger mom,37.0,full term,14.0,25.0,7.56,not low,female,not married,white
+35.0,31.0,younger mom,40.0,full term,12.0,40.0,8.0,not low,male,married,white
+36.0,33.0,younger mom,40.0,full term,12.0,19.0,6.83,not low,male,married,white
+25.0,31.0,younger mom,40.0,full term,3.0,30.0,6.75,not low,female,married,white
+25.0,21.0,younger mom,41.0,full term,10.0,29.0,7.11,not low,male,not married,not white
+43.0,37.0,mature mom,39.0,full term,12.0,11.0,6.94,not low,female,married,white
+43.0,38.0,mature mom,41.0,full term,10.0,37.0,7.19,not low,male,not married,white
+36.0,36.0,mature mom,39.0,full term,14.0,36.0,9.35,not low,female,married,white
+49.0,26.0,younger mom,40.0,full term,15.0,41.0,8.0,not low,male,not married,not white
+38.0,32.0,younger mom,39.0,full term,6.0,0.0,7.85,not low,male,not married,white
+32.0,33.0,younger mom,38.0,full term,10.0,27.0,7.94,not low,male,married,white
+34.0,35.0,mature mom,32.0,premie,10.0,25.0,6.25,not low,male,not married,not white
+20.0,23.0,younger mom,38.0,full term,12.0,29.0,6.37,not low,male,married,white
+27.0,26.0,younger mom,38.0,full term,11.0,64.0,7.56,not low,female,married,white
+29.0,28.0,younger mom,43.0,full term,12.0,30.0,8.95,not low,male,married,white
+21.0,23.0,younger mom,39.0,full term,11.0,18.0,7.13,not low,female,not married,white
+21.0,20.0,younger mom,40.0,full term,17.0,25.0,8.62,not low,male,not married,white
+30.0,34.0,younger mom,39.0,full term,11.0,29.0,7.87,not low,male,married,white
+25.0,26.0,younger mom,39.0,full term,14.0,23.0,5.97,not low,female,married,white
+31.0,21.0,younger mom,34.0,premie,6.0,39.0,5.06,low,male,not married,not white
+27.0,23.0,younger mom,39.0,full term,10.0,19.0,8.0,not low,male,not married,not white
+31.0,23.0,younger mom,37.0,full term,7.0,22.0,7.0,not low,male,not married,white
+26.0,25.0,younger mom,37.0,full term,4.0,2.0,5.69,not low,male,married,white
+39.0,27.0,younger mom,38.0,full term,3.0,28.0,5.81,not low,female,not married,not white
+31.0,27.0,younger mom,44.0,full term,15.0,31.0,7.19,not low,male,married,white
+17.0,19.0,younger mom,41.0,full term,10.0,34.0,7.19,not low,male,married,white
+34.0,29.0,younger mom,40.0,full term,14.0,20.0,8.98,not low,female,married,white
+31.0,22.0,younger mom,38.0,full term,12.0,39.0,6.69,not low,male,not married,not white
+36.0,37.0,mature mom,43.0,full term,10.0,39.0,7.12,not low,male,married,not white
+27.0,26.0,younger mom,38.0,full term,8.0,17.0,7.87,not low,male,married,white
+37.0,36.0,mature mom,39.0,full term,13.0,34.0,8.16,not low,female,married,white
+28.0,29.0,younger mom,41.0,full term,15.0,40.0,7.31,not low,female,not married,white
+34.0,27.0,younger mom,33.0,premie,5.0,15.0,4.28,low,male,not married,white
+33.0,28.0,younger mom,39.0,full term,19.0,11.0,7.34,not low,female,married,white
+26.0,24.0,younger mom,40.0,full term,16.0,36.0,6.87,not low,female,married,white
+22.0,22.0,younger mom,44.0,full term,14.0,27.0,7.94,not low,male,married,white
+32.0,36.0,mature mom,41.0,full term,12.0,52.0,8.62,not low,female,married,white
+23.0,22.0,younger mom,39.0,full term,8.0,20.0,6.82,not low,female,not married,white
+31.0,23.0,younger mom,36.0,premie,5.0,33.0,7.99,not low,female,not married,white
+31.0,27.0,younger mom,39.0,full term,13.0,18.0,7.46,not low,female,not married,white
+31.0,32.0,younger mom,38.0,full term,12.0,8.0,6.6,not low,male,married,white
+20.0,22.0,younger mom,40.0,full term,10.0,31.0,7.78,not low,male,married,white
+49.0,33.0,younger mom,40.0,full term,13.0,36.0,8.13,not low,male,married,white
+32.0,34.0,younger mom,39.0,full term,14.0,27.0,7.87,not low,female,married,white
+32.0,28.0,younger mom,40.0,full term,12.0,43.0,6.84,not low,male,married,not white
+34.0,30.0,younger mom,41.0,full term,12.0,30.0,6.74,not low,female,married,white
+31.0,29.0,younger mom,38.0,full term,9.0,34.0,7.44,not low,female,married,white
+31.0,26.0,younger mom,38.0,full term,14.0,0.0,7.81,not low,female,married,not white
+32.0,26.0,younger mom,40.0,full term,13.0,1.0,6.57,not low,female,married,not white
+35.0,28.0,younger mom,39.0,full term,12.0,30.0,5.85,not low,male,married,white
+49.0,38.0,mature mom,39.0,full term,14.0,0.0,6.99,not low,male,married,white
+34.0,29.0,younger mom,38.0,full term,8.0,12.0,9.19,not low,female,not married,white
+20.0,23.0,younger mom,38.0,full term,11.0,35.0,6.19,not low,male,not married,white
+30.0,32.0,younger mom,40.0,full term,15.0,33.0,6.77,not low,male,married,white
+43.0,36.0,mature mom,36.0,premie,23.370515791130217,25.0,6.5,not low,male,married,white
+44.0,39.0,mature mom,39.0,full term,10.0,33.0,7.37,not low,female,married,white
+28.0,25.0,younger mom,38.0,full term,12.0,23.0,5.75,not low,female,married,white
+34.0,29.0,younger mom,39.0,full term,14.0,16.0,8.12,not low,male,married,white
+30.0,31.0,younger mom,32.0,premie,11.0,30.0,3.64,low,male,married,not white
+31.0,31.0,younger mom,40.0,full term,6.0,23.0,7.74,not low,female,married,white
+26.0,29.0,younger mom,40.0,full term,12.0,38.0,7.19,not low,male,married,white
+29.0,28.0,younger mom,41.0,full term,18.0,27.0,8.81,not low,male,married,white
+32.0,28.0,younger mom,36.0,premie,12.0,28.0,5.88,not low,female,married,white
+31.0,38.0,mature mom,38.0,full term,13.0,30.0,8.88,not low,female,not married,not white
+31.0,26.0,younger mom,39.0,full term,12.0,25.0,7.25,not low,female,married,white
+35.0,38.0,mature mom,38.0,full term,11.0,6.0,6.69,not low,female,married,white
+32.0,30.0,younger mom,39.0,full term,12.0,14.0,6.83,not low,female,not married,white
+44.0,35.0,mature mom,33.0,premie,6.0,29.0,4.8,low,male,married,white
+30.0,27.0,younger mom,40.0,full term,10.0,30.0,8.63,not low,male,not married,not white
+36.0,33.0,younger mom,36.0,premie,16.0,30.0,8.44,not low,male,married,white
+37.0,35.0,mature mom,38.0,full term,13.0,36.0,5.13,low,male,not married,white
+48.0,35.0,mature mom,40.0,full term,6.0,33.0,8.07,not low,male,not married,white
+24.0,24.0,younger mom,40.0,full term,12.0,35.0,6.03,not low,male,not married,white
+25.0,29.0,younger mom,41.0,full term,12.0,30.0,7.62,not low,male,not married,not white
+31.0,34.0,younger mom,44.0,full term,4.0,22.0,4.67,low,female,not married,white
+29.0,23.0,younger mom,38.0,full term,7.0,17.0,6.05,not low,male,married,white
+21.0,22.0,younger mom,39.0,full term,11.0,40.0,7.45,not low,male,married,white
+25.0,20.0,younger mom,42.0,full term,10.0,33.0,7.31,not low,male,not married,white
+15.0,18.0,younger mom,39.0,full term,6.0,32.0,6.64,not low,female,not married,white
+25.0,21.0,younger mom,35.0,premie,10.0,36.0,5.58,not low,female,not married,white
+31.0,23.0,younger mom,40.0,full term,3.0,25.0,5.87,not low,female,not married,not white
+30.0,32.0,younger mom,39.0,full term,7.0,38.0,7.5,not low,female,not married,not white
+41.0,29.0,younger mom,36.0,premie,11.0,45.0,5.82,not low,female,married,white
+31.0,20.0,younger mom,37.0,full term,8.0,36.0,7.63,not low,female,not married,white
+28.0,27.0,younger mom,39.0,full term,12.0,41.0,9.0,not low,male,not married,not white
+23.0,17.0,younger mom,40.0,full term,12.0,38.0,8.05,not low,male,not married,white
+38.0,34.0,younger mom,37.0,full term,8.0,31.0,9.14,not low,male,married,white
+38.0,36.0,mature mom,39.0,full term,12.0,15.0,8.19,not low,male,married,white
+20.0,18.0,younger mom,39.0,full term,14.0,0.0,7.87,not low,male,not married,not white
+33.0,34.0,younger mom,38.0,full term,16.0,34.0,9.37,not low,male,married,white
+36.0,31.0,younger mom,39.0,full term,15.0,28.0,6.38,not low,male,not married,white
+33.0,26.0,younger mom,38.0,full term,13.0,34.0,7.35,not low,female,married,white
+48.0,32.0,younger mom,40.0,full term,8.0,8.0,9.0,not low,female,married,not white
+29.0,24.0,younger mom,32.0,premie,8.0,33.0,3.2778345694928483,low,female,married,white
+28.0,24.0,younger mom,39.0,full term,12.0,20.0,6.49,not low,male,not married,not white
+37.0,31.0,younger mom,38.0,full term,8.0,33.0,5.8,not low,female,married,white
+27.0,27.0,younger mom,34.0,premie,7.0,25.0,6.75,not low,female,married,white
+31.0,33.0,younger mom,42.0,full term,0.0,13.0,7.44,not low,male,not married,white
+21.0,17.0,younger mom,41.0,full term,12.0,41.0,7.13,not low,female,not married,white
